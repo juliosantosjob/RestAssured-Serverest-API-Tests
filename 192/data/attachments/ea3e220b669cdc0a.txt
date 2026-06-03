@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=5095a6e59fdaf1ae929f51c03f3fc1b8
+date=Wed, 03 Jun 2026 16:29:14 GMT
+server=Google Frontend
+Content-Length=160
+Body: {
+    "nome": "Erma Rogahn",
+    "email": "Eveline49@yahoo.com",
+    "password": "rcUk7QO0iUjH0Ce",
+    "administrador": "true",
+    "_id": "0gcoHM8xcWMpxdhw"
+}
