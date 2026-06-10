@@ -1,0 +1,81 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=22ecd645b7eb207eb7559c06a847ab05
+date=Wed, 10 Jun 2026 15:22:48 GMT
+server=Google Frontend
+Content-Length=1979
+Body: {
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Eduardo",
+            "email": "email_teste@gmail.com",
+            "password": "senha_teste",
+            "administrador": "false",
+            "_id": "57gUcSeDZ5yY4GLr"
+        },
+        {
+            "nome": "QA Test Cypress",
+            "password": "123456",
+            "administrador": "true",
+            "email": "qa1781104743338@qa.com",
+            "_id": "90j5yCyVtkDAktBA"
+        },
+        {
+            "nome": "Napoleon",
+            "email": "johana.bosco@hotmail.com",
+            "password": "ehe6p9hf",
+            "administrador": "true",
+            "_id": "C4HYEy0a6hZtuTl4"
+        },
+        {
+            "nome": "QA Test Cypress",
+            "password": "123456",
+            "administrador": "true",
+            "email": "qa1781104742957@qa.com",
+            "_id": "FVY3SByXAnj427Iw"
+        },
+        {
+            "nome": "QA Atualizado",
+            "email": "qa1781104740202@qa.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "VPIoC0z1rORoyuEC"
+        },
+        {
+            "nome": "QA Test Cypress",
+            "password": "123456",
+            "administrador": "true",
+            "email": "qa1781104739226@qa.com",
+            "_id": "YH1id86qbul1whzZ"
+        },
+        {
+            "nome": "Wilfrid.Koepp",
+            "email": "Pearl_Okuneva63@hotmail.com",
+            "password": "084831867",
+            "administrador": "true",
+            "_id": "nFKuYAnO5HsnXkaI"
+        },
+        {
+            "nome": "QA Test Cypress",
+            "password": "123456",
+            "administrador": "true",
+            "email": "qa1781104738833@qa.com",
+            "_id": "smIPI7nJSB0qzvan"
+        }
+    ]
+}
