@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=fc1636eb6fe1b1f85d6df152bd87e0c3
+date=Mon, 15 Jun 2026 22:14:57 GMT
+server=Google Frontend
+Content-Length=158
+Body: {
+    "nome": "QA Test Cypress",
+    "password": "123456",
+    "administrador": "true",
+    "email": "qa1781558740715@qa.com",
+    "_id": "014Je20ze6ZDnMMp"
+}
