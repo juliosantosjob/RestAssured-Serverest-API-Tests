@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=6f73b5dd4953955d62744acf4b712aaf
+date=Fri, 19 Jun 2026 14:53:58 GMT
+server=Google Frontend
+Content-Length=163
+Body: {
+    "nome": "Maria Delfina",
+    "email": "Maria1781872995314y@qa.com.br",
+    "password": "teste",
+    "administrador": "false",
+    "_id": "0AZR41hW0tMXjzGU"
+}
