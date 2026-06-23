@@ -1,0 +1,284 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=2c686f3ea3a445986dc8c416a5c3b35f
+date=Tue, 23 Jun 2026 21:29:09 GMT
+server=Google Frontend
+Content-Length=8882
+Body: {
+    "quantidade": 38,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Diego Martins",
+            "email": "karate.teste.1782248701310.387653@serverest.com",
+            "password": "Karate@893453",
+            "administrador": "false",
+            "_id": "1rTgoQTJw7CwgUKq"
+        },
+        {
+            "nome": "Randy",
+            "email": "jamila.farrell@hotmail.com",
+            "password": "34wlh2x5",
+            "administrador": "true",
+            "_id": "3C1hcZ5p8GICxEVK"
+        },
+        {
+            "nome": "vitor",
+            "email": "dossantosvitoralberto@gmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "7YzeSQS10FJzT9EU"
+        },
+        {
+            "nome": "Joao Costa",
+            "email": "karate.teste.1782248554866.303214@serverest.com",
+            "password": "Karate@337238",
+            "administrador": "true",
+            "_id": "8bGZi2YVf9YJurHi"
+        },
+        {
+            "nome": "Olivia Ribeiro",
+            "email": "karate.teste.1782248616685.957195@serverest.com",
+            "password": "Karate@561219",
+            "administrador": "true",
+            "_id": "BtTGQyDRFV3OTzEp"
+        },
+        {
+            "nome": "Fabio Silva",
+            "email": "karate.teste.1782248707857.118320@serverest.com",
+            "password": "Karate@233412",
+            "administrador": "true",
+            "_id": "C1V5QZu212Wc3w9m"
+        },
+        {
+            "nome": "Ines Souza",
+            "email": "karate.teste.1782248656393.793768@serverest.com",
+            "password": "Karate@317029",
+            "administrador": "false",
+            "_id": "C9jyDqoNzwxFccDO"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "CnkdbqyX38ZgTpXm"
+        },
+        {
+            "nome": "Mr. Marilyn Abshire",
+            "email": "Helena.Muller@yahoo.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "DAiuWJ7HhV95X10E"
+        },
+        {
+            "nome": "Judy Klocko Jr.",
+            "email": "Adolf.Zboncak@yahoo.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "EuHX3nrbMlQoAjWr"
+        },
+        {
+            "nome": "Karina Ribeiro",
+            "email": "karate.teste.1782247211575.337673@serverest.com",
+            "password": "Karate@615271",
+            "administrador": "true",
+            "_id": "FZKNFh7zeI7phNRa"
+        },
+        {
+            "nome": "Gabriela Barros",
+            "email": "karate.teste.1782248269873.348583@serverest.com",
+            "password": "Karate@927532",
+            "administrador": "true",
+            "_id": "GU9LgdbMez1M6lpn"
+        },
+        {
+            "nome": "Pedro Souza",
+            "email": "karate.teste.1782248554387.197551@serverest.com",
+            "password": "Karate@500464",
+            "administrador": "false",
+            "_id": "HvEQc00zOCa2lB2u"
+        },
+        {
+            "nome": "Ana Santos",
+            "email": "karate.teste.1782247210140.96031@serverest.com",
+            "password": "Karate@40499",
+            "administrador": "false",
+            "_id": "KU7YXPFrBGSdE4q3"
+        },
+        {
+            "nome": "Lucas Gomes",
+            "email": "karate.teste.1782248709816.279481@serverest.com",
+            "password": "Karate@20010",
+            "administrador": "true",
+            "_id": "KoHz5CQ6kHjOyvMM"
+        },
+        {
+            "nome": "Lucas Ribeiro",
+            "email": "karate.teste.1782248617589.437020@serverest.com",
+            "password": "Karate@763883",
+            "administrador": "false",
+            "_id": "N5oMdc0cdopZhr9M"
+        },
+        {
+            "nome": "Nestor Costa",
+            "email": "karate.teste.1782248615706.226965@serverest.com",
+            "password": "Karate@852050",
+            "administrador": "false",
+            "_id": "OelYm5Rw2Yya4XCB"
+        },
+        {
+            "nome": "Ines Ribeiro",
+            "email": "karate.teste.1782248704280.824377@serverest.com",
+            "password": "Karate@757370",
+            "administrador": "true",
+            "_id": "R0aqfWzXg9i1iQGn"
+        },
+        {
+            "nome": "Joao Araujo",
+            "email": "karate.teste.1782247212484.711705@serverest.com",
+            "password": "Karate@317183",
+            "administrador": "true",
+            "_id": "R1zW5ovLBQnrJy8O"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782246919839y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "Sb9pSsDutoyZVkXG"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782247997513y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "TONgadxXSm9UAU3E"
+        },
+        {
+            "nome": "Hugo Silva",
+            "email": "karate.teste.1782248709265.847452@serverest.com",
+            "password": "Karate@468501",
+            "administrador": "false",
+            "_id": "WdGRPnb7T7klWLIN"
+        },
+        {
+            "nome": "Hugo Araujo",
+            "email": "karate.teste.1782248658201.443057@serverest.com",
+            "password": "Karate@800125",
+            "administrador": "false",
+            "_id": "XYSkI8mzQ3EMcIJ5"
+        },
+        {
+            "nome": "Ana Silva",
+            "email": "karate.teste.1782248269382.283976@serverest.com",
+            "password": "Karate@868802",
+            "administrador": "false",
+            "_id": "a3cBbfFT0XgmlQyl"
+        },
+        {
+            "nome": "Vinte dois ",
+            "email": "vintedois@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "dbDGvSDsOqu4ZilE"
+        },
+        {
+            "nome": "Nestor Souza",
+            "email": "karate.teste.1782248270788.854050@serverest.com",
+            "password": "Karate@524952",
+            "administrador": "true",
+            "_id": "fzCez7XRG9pZvN3W"
+        },
+        {
+            "nome": "vitor",
+            "email": "Vitorsantos@Qa.com.br",
+            "password": "123",
+            "administrador": "true",
+            "_id": "h45AvCDA73YMduJ1"
+        },
+        {
+            "nome": "Olivia Souza",
+            "email": "karate.teste.1782248658673.415014@serverest.com",
+            "password": "Karate@50819",
+            "administrador": "false",
+            "_id": "oy1M7piDeIHpviTo"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782248374768y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "pI2ZOfMXAKQ5qKoc"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782248271269y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "pPhJ7D0ddnHeocIz"
+        },
+        {
+            "nome": "Pedro Souza",
+            "email": "karate.teste.1782248659113.370224@serverest.com",
+            "password": "Karate@260637",
+            "administrador": "false",
+            "_id": "qdg18wO4AKzyBrYN"
+        },
+        {
+            "nome": "Patti Torp",
+            "email": "Elbert42@gmail.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "r2cdUDcG7DoB5rZI"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782248206189y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "ukAa9daCiQveB24v"
+        },
+        {
+            "nome": "Joey Tillman",
+            "email": "Serenity.Sauer@hotmail.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "vmpeHjNkqUqSfSRd"
+        },
+        {
+            "nome": "Diego Martins",
+            "email": "karate.teste.1782248703239.231761@serverest.com",
+            "password": "Karate@110524",
+            "administrador": "false",
+            "_id": "wxPmnMz3Y9MESorL"
+        },
+        {
+            "nome": "Elena Santos",
+            "email": "karate.teste.1782248555775.441968@serverest.com",
+            "password": "Karate@791670",
+            "administrador": "false",
+            "_id": "xguf3NTHMIX4THxT"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782248343014y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "zjerkPzzEniCgAxd"
+        }
+    ]
+}
