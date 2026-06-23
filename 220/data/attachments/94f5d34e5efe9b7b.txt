@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=568c03219bf54760b9ba6118126ceb4f
+date=Tue, 23 Jun 2026 14:38:51 GMT
+server=Google Frontend
+Content-Length=192
+Body: {
+    "nome": "Usuario QA - Edição",
+    "email": "user_c9d12d14-d969-47f0-8569-c913577b72d2@qa.com.br",
+    "password": "12345",
+    "administrador": "true",
+    "_id": "0eHEXWdYK1UHl6Ce"
+}
