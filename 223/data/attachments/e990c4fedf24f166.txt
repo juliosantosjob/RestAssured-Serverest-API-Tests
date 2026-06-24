@@ -1,0 +1,88 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=5bb964935f6c2bec697f04fbf1866ff8
+date=Wed, 24 Jun 2026 21:20:08 GMT
+server=Google Frontend
+Content-Length=2288
+Body: {
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782335956827y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "1y0GJjWgQdAYDgBL"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782335967395y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "K4oJnpgfReVbGfH3"
+        },
+        {
+            "nome": "Brandon Weimann",
+            "email": "qa+2683968503214@mailinator.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "haXqpNegpIfTGAwf"
+        },
+        {
+            "nome": "Charlie Russel",
+            "email": "qa+2687553441878@mailinator.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "kAsSkxHzzuqvQer3"
+        },
+        {
+            "nome": "Sheryl O'Conner MD",
+            "email": "qa.update+2689737099060@mailinator.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "mExlxVAg8evqPOjs"
+        },
+        {
+            "nome": "Jeanette Willms",
+            "email": "qa+2686795211941@mailinator.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "nvptaHtWNF4bb7Eo"
+        },
+        {
+            "nome": "Torrie Bins",
+            "email": "qa+2687857351620@mailinator.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "pf3uS1oBVN4NzxBL"
+        },
+        {
+            "nome": "Rebecca",
+            "email": "dorthy.cole@gmail.com",
+            "password": "7yex354zc6b9z",
+            "administrador": "true",
+            "_id": "qymeEYC1ZCihusRp"
+        },
+        {
+            "nome": "Alisa Schaden I",
+            "email": "qa.update+2689085260521@mailinator.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "vSbYInCR0atGEMok"
+        }
+    ]
+}
