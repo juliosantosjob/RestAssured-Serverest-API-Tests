@@ -1,0 +1,158 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=f665cd0eee30cf3a68659a3d306f80a0
+date=Thu, 25 Jun 2026 21:28:22 GMT
+server=Google Frontend
+Content-Length=4641
+Body: {
+    "quantidade": 20,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782421094749@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "2aFE3QHq3c0EOZ2m"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782422715113@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "4UNNvvIA9IIu9HLE"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano3@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "9vkqAkjzatCObdke"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782421129985@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "AmZ83O8v1Or1atpK"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782421118009@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "CVcgAkg9qZ47G0BC"
+        },
+        {
+            "nome": "Usuario Admin",
+            "email": "usuario.admin1782422745901@gmail.com",
+            "password": "senha_admin",
+            "administrador": "true",
+            "_id": "Hl90jdYisc4SrKip"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782422699708@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "HlG4WGb7qXZlQjQU"
+        },
+        {
+            "nome": "user_1247d56e-0de3-4c1e-8d4c-78a0d55ba203",
+            "email": "user_1c61b3cd-e9ad-48a0-8220-4400a228e007@qa.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "P4bx6BowrB0xH5aI"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano2@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "RAxf3ra3yF70LEnO"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano4@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "T6LnRNEycu9qHzb9"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782422746524@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "VP4OeZ9Lyb0c6xyM"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782422730232@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "ao4bT5n5acOK5V75"
+        },
+        {
+            "nome": "Usuario Admin",
+            "email": "usuario.admin1782421071448@gmail.com",
+            "password": "senha_admin",
+            "administrador": "true",
+            "_id": "bRljXYUtnl63sJQI"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782421073011@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "dIEuNhmobZOr9TEX"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782421106218@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "duUYoPJyDPOcOz6p"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782422681841@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "fHwkN3zrx3MqsvFa"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782421082850@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "iZlBCRYaYzzvBXMr"
+        },
+        {
+            "nome": "Usuario Admin",
+            "email": "usuario.admin1782421129156@gmail.com",
+            "password": "senha_admin",
+            "administrador": "true",
+            "_id": "t3QHF9yv3cvTIKvh"
+        },
+        {
+            "nome": "Meda",
+            "email": "russ.waelchi@gmail.com",
+            "password": "o8j9yljawqr5h",
+            "administrador": "true",
+            "_id": "vZpFbGwdbeh9b8CC"
+        }
+    ]
+}
