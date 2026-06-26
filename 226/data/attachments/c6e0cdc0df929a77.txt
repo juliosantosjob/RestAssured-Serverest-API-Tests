@@ -1,0 +1,67 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=297cafe499bac5537a4771419192123e
+date=Fri, 26 Jun 2026 14:14:01 GMT
+server=Google Frontend
+Content-Length=1686
+Body: {
+    "quantidade": 7,
+    "usuarios": [
+        {
+            "nome": "Boyd_Bernhard74",
+            "email": "Deion40@gmail.com",
+            "password": "434873504",
+            "administrador": "true",
+            "_id": "0Y8KR7e2fSBQzZC2"
+        },
+        {
+            "nome": "Margaret29",
+            "email": "Aurelie_Becker-Orn67@hotmail.com",
+            "password": "837009504",
+            "administrador": "true",
+            "_id": "9r8kysyQc19VromA"
+        },
+        {
+            "nome": "user_39b2a133-1ab3-42c2-b228-90ea343a97cd",
+            "email": "user_a91af3bf-9a77-4d79-b59c-46b6bcde8bd0@qa.com",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "GGCahqnxPNXp6r9g"
+        },
+        {
+            "nome": "Usuario Duplicado Teste",
+            "email": "duplicado.1782483217026@serverest.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "Mt06Q518Rite6Qk6"
+        },
+        {
+            "nome": "Eduardo",
+            "email": "comum@gmail.com",
+            "password": "senha_teste_admin",
+            "administrador": "false",
+            "_id": "WLDf7jznUyoicC2l"
+        },
+        {
+            "nome": "user_0afdeef9-9580-4af4-ac67-fae97ce66d90",
+            "email": "user_ed724267-3d7f-4947-8031-9b6653e2a0cb@qa.com",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "Z2JCLDvhnRE4KPrv"
+        },
+        {
+            "nome": "Van",
+            "email": "pandora.ledner@gmail.com",
+            "password": "33nwrfztogyrdrf",
+            "administrador": "true",
+            "_id": "xpqwuSYimVLrLvNB"
+        }
+    ]
+}
