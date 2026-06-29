@@ -1,0 +1,578 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=e211e658c6b5d4018b4f99ad0a9fa2b2
+date=Mon, 29 Jun 2026 15:38:24 GMT
+server=Google Frontend
+Content-Length=18702
+Body: {
+    "quantidade": 80,
+    "usuarios": [
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa-jlxlfxbqrc@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "0054fVk04lYXUym2"
+        },
+        {
+            "nome": "Srta. Maria Clara da Mata",
+            "email": "maria-helena57@example.net",
+            "password": "9GCEzQks",
+            "administrador": "true",
+            "_id": "0HksUtvNyggkaP3t"
+        },
+        {
+            "nome": "Daniela Pereira",
+            "email": "maria-julia91@example.org",
+            "password": "pk102Hc5",
+            "administrador": "true",
+            "_id": "0kUbP15Z7Zh5OCC4"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782743506757y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "1CDgTYg7mSttIIRH"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa@texample.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "1U9M6JQNclHS9FuE"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa-yjnfehlgao@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "1XdSIr6YVP2BaZXR"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "MariaDelfina@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "1yncWykuDvLJqFMS"
+        },
+        {
+            "nome": "Hora do QA",
+            "email": "horadoqa@qa.com.br",
+            "password": "horadoqa",
+            "administrador": "true",
+            "_id": "2xFkP08RTU7Wj6mc"
+        },
+        {
+            "nome": "adilio test",
+            "email": "adilio.test@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "3X5mo4odnydSVmmK"
+        },
+        {
+            "nome": "adilio test",
+            "email": "adiliotest@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "3tyFnVLqZW5BdzpX"
+        },
+        {
+            "nome": "Lorene Cummerata",
+            "email": "lorenecummerata_Baumbach@serverest.dev",
+            "password": "26MQphRINLSK",
+            "administrador": "true",
+            "_id": "4kX8rikwlwdtCvBR"
+        },
+        {
+            "nome": "CRUD Test 1782738142355",
+            "email": "crud_1782738142355@example.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "6g1XUIq4R64Uq4Ba"
+        },
+        {
+            "nome": "Maria Isis Leão",
+            "email": "ypastor@example.com",
+            "password": "4Clrr0XZ",
+            "administrador": "true",
+            "_id": "6gKtR8xiIXR5TYcM"
+        },
+        {
+            "nome": "Manuela Castro",
+            "email": "zmendes@example.net",
+            "password": "9YrlfHY7",
+            "administrador": "true",
+            "_id": "79veDEtvb2ESW7wz"
+        },
+        {
+            "nome": "Marta Josefina",
+            "email": "Maria1782743506348y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "7Bkx6GktFAeFkIfT"
+        },
+        {
+            "nome": "Usuario Administrador",
+            "email": "usuarioadm351@test.com",
+            "password": "12345678a",
+            "administrador": "true",
+            "_id": "9CPuiOeH6HaZZdnd"
+        },
+        {
+            "nome": "Aron.Vandervort",
+            "email": "Dejuan69@hotmail.com",
+            "password": "602895779",
+            "administrador": "true",
+            "_id": "9MPNktnUDPY9iKda"
+        },
+        {
+            "nome": "Henry Pacocha",
+            "email": "henrypacocha@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "BIEi8icEQ2OsmFNR"
+        },
+        {
+            "nome": "Fulano do Teste",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "BPo6nXFDmXaE3spb"
+        },
+        {
+            "nome": "Reggie_Bashirian68",
+            "email": "Reece.Collins17@hotmail.com",
+            "password": "964466915",
+            "administrador": "true",
+            "_id": "CRuphZGSmfo45E4k"
+        },
+        {
+            "nome": "Alexandre",
+            "email": "portugal52@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "EX87Cs2o00SuDuyv"
+        },
+        {
+            "nome": "Ricardo Fahham",
+            "email": "ricardo.qa.teste@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Fw8K4YKfUdDaTwQC"
+        },
+        {
+            "nome": "Novo Usuário",
+            "email": "new_user_1782738142010@example.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "FxNEPdSNXvfUZGae"
+        },
+        {
+            "nome": "Mr. Elijah Russel",
+            "email": "mr.elijahrussel_Greenholt76@serverest.dev",
+            "password": "N4SpPi8sdc20",
+            "administrador": "true",
+            "_id": "GfpQFXaveX8bMeWl"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa-mkvtrkjquw@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "Hq37Q1XYqpQL8PqE"
+        },
+        {
+            "nome": "Zoe Duarte",
+            "email": "jose-miguel79@example.net",
+            "password": "7X2VxpyH",
+            "administrador": "true",
+            "_id": "HxpLktwTFZxmdXGz"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "IPUS4bE21Ijot2Xm"
+        },
+        {
+            "nome": "Gene.Wyman",
+            "email": "Kurtis_Keeling33@gmail.com",
+            "password": "310371745",
+            "administrador": "true",
+            "_id": "NRlwbxyBasRFKUzJ"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782743486165y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "Njq6BX6VUbT5Srhv"
+        },
+        {
+            "nome": "João Mendes",
+            "email": "usuario1782743505118y@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ONJ4NC3TYSAPq7bl"
+        },
+        {
+            "nome": "Ricardo Fahham",
+            "email": "cjdstpavce@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "OWI6DI1Rfl5c96L4"
+        },
+        {
+            "nome": "Lois Quigley",
+            "email": "loisquigley_Hagenes@serverest.dev",
+            "password": "DbwkE22xXLj0",
+            "administrador": "false",
+            "_id": "OgxhfUo0DD5qR5uT"
+        },
+        {
+            "nome": "Bob Ritchie",
+            "email": "jaymayert@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "OmLJiPCbkzRSMQkP"
+        },
+        {
+            "nome": "May Hermann III",
+            "email": "mayhermanniii@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "PBbc2JVccGlt2qDD"
+        },
+        {
+            "nome": "Audrey Beatty",
+            "email": "audreybeatty@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "PzTwwnDvuzFvv7yt"
+        },
+        {
+            "nome": "Marta Josefina",
+            "email": "marta1782743516182@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "Q6S8a5q0I2dZ3bVF"
+        },
+        {
+            "nome": "Marta Josefina",
+            "email": "marta1782743523650@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "R5O6RfS6zckvSJGJ"
+        },
+        {
+            "nome": "Neal Crooks V",
+            "email": "nealcrooksv@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "RsGP4l1CZcQaSWas"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa@GMAIL.COM",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "S10bPbmCboFOrju8"
+        },
+        {
+            "nome": "Marta Josefina",
+            "email": "marta1782743516591@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "T52iOpyP1JijcZEy"
+        },
+        {
+            "nome": "Hora do QA",
+            "email": "horadoqa1782738287336@qa.com.br",
+            "password": "horadoqa",
+            "administrador": "true",
+            "_id": "TyUSqJA7BxfrbiuI"
+        },
+        {
+            "nome": "Admin 1782738141056",
+            "email": "admin_1782738141056@example.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "UpKbnLzi0DCHiBno"
+        },
+        {
+            "nome": "João Mendes",
+            "email": "usuario1782743505459y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "UrpqMuZfAIVueaLi"
+        },
+        {
+            "nome": "Elvera66",
+            "email": "Arlene.Mayer@gmail.com",
+            "password": "187163016",
+            "administrador": "true",
+            "_id": "Vls1N6PypkDMLBO5"
+        },
+        {
+            "nome": "Vicente Machado",
+            "email": "benicio25@example.net",
+            "password": "woy86WPe",
+            "administrador": "true",
+            "_id": "axH4hGbxIDrqzmNI"
+        },
+        {
+            "nome": "Maria Mariana Marilia",
+            "email": "marimari@qa.com.br",
+            "password": "mari",
+            "administrador": "true",
+            "_id": "bB9VAA9VqtszxV7y"
+        },
+        {
+            "nome": "Dominick O'Reilly",
+            "email": "dominicko'reilly@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "cEElFH3fGuG30HTN"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa-fnfmacwpeb@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "cKfNEyDrwjXBKHn3"
+        },
+        {
+            "nome": "Maria EduardaMaria ",
+            "email": "marta1782743525257@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "dH0mBVXDYJawEE5n"
+        },
+        {
+            "nome": "Dixie Hilpert",
+            "email": "dixiehilpert28@serverest.dev",
+            "password": "JdDrkyNyQdRN",
+            "administrador": "false",
+            "_id": "eESWa8glu8dgoJuU"
+        },
+        {
+            "nome": "Théo da Costa",
+            "email": "danielacamara@example.org",
+            "password": "L8TytRTu",
+            "administrador": "true",
+            "_id": "f56qG0A8WDlvlaT2"
+        },
+        {
+            "nome": "Marta Josefina",
+            "email": "marta1782743519523@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "fbcpxEtUgRdLssIf"
+        },
+        {
+            "nome": "#%*((*&¨%%$*&&¨%%$$##@",
+            "email": "marta1782743524063@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "hmeEm7HEMlSV2xYo"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa-eigajnymyf@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "i5qZMhuTgo1NpEXo"
+        },
+        {
+            "nome": "Rolando Douglas",
+            "email": "rolandodouglas@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "j6H2CHGEv4GyGcnp"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782743509831y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "jAC7h53RkOymnskQ"
+        },
+        {
+            "nome": "Benjamin Macedo",
+            "email": "jmendes@example.net",
+            "password": "F85Gxm2s",
+            "administrador": "true",
+            "_id": "jibYeplTibxepDjy"
+        },
+        {
+            "nome": "Oren",
+            "email": "antoine.kemmer@gmail.com",
+            "password": "zf4kg4qv8nnovc8",
+            "administrador": "true",
+            "_id": "kQ4CQ0kLBNYXSkTb"
+        },
+        {
+            "nome": "Anna Uvannovna",
+            "email": "Anna@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "kcT6eESr2zBFVi22"
+        },
+        {
+            "nome": "Marta Josefina",
+            "email": "marta1782743523247@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "kezoKehtaGgMwcsd"
+        },
+        {
+            "nome": "Matteo.Bechtelar86",
+            "email": "Domenico_Osinski57@gmail.com",
+            "password": "895650082",
+            "administrador": "true",
+            "_id": "kkQNxaHAt1u1b4Rm"
+        },
+        {
+            "nome": "Rahsaan59",
+            "email": "Hobart34@hotmail.com",
+            "password": "466376142",
+            "administrador": "true",
+            "_id": "kz4bgw9c3tfgKtPv"
+        },
+        {
+            "nome": "Outro Usuário",
+            "email": "duplicate_1782738141919@example.com",
+            "password": "senha123",
+            "administrador": "false",
+            "_id": "o7mvOPDXTr3AGz2D"
+        },
+        {
+            "nome": "Usuário Teste",
+            "email": "test_1782738140475@example.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "ome8u3diDb3shAuF"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "uvqcoakzmz@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "pVlC1GfB4RWGzMws"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa-yjiltwkrgp@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "qZ5YqoixdLp26Wso"
+        },
+        {
+            "nome": "Hora do QA",
+            "email": "horadoqa1782738285398@qa.com.br",
+            "password": "horadoqa",
+            "administrador": "true",
+            "_id": "qoTMIQ1gnrIBPCIP"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa - Atualizado",
+            "email": "nvjrmjqhhv@example.com",
+            "password": "4r3e2w1q",
+            "administrador": "true",
+            "_id": "twRYjqzYxMiTRSKH"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "dsmzkayukf@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "udZuNboLFdbn6K0h"
+        },
+        {
+            "nome": "Maria EduardaMaria ",
+            "email": "marta1782743524863@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "v0Kg7AcauDVW2Egw"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa-ntcozekdtg@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "v8lAgNAp4Cu9qDOj"
+        },
+        {
+            "nome": "Ricardo Fahham",
+            "email": "kdbdutzjrv@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "vqoWwTA6ZM6Nzmcy"
+        },
+        {
+            "nome": "Antonella Cavalcante",
+            "email": "carlos-eduardo19@example.net",
+            "password": "S3UZkPFz",
+            "administrador": "true",
+            "_id": "wWXqomSDTAjTpX2j"
+        },
+        {
+            "nome": "Maria Delfina",
+            "email": "Maria1782743505941y@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "wf2AcAMtiiu5sMWD"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa-afhjyrwtla@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "x0hAQ8CEdbfu9zkC"
+        },
+        {
+            "nome": "Ricardo Fahham",
+            "email": "ncgvsvoymv@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "x0m4nsZy9w7fhw50"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "xP3Ga8ut4wls9tyq"
+        },
+        {
+            "nome": "Maria EduardaMaria EduardaMaria EduardaMaria EduardaMaria EduardaMaria EduardaMaria EduardaMaria EduardaMaria EduardaMaria EduardaMaria EduardaMaria EduardaMaria Eduarda",
+            "email": "marta1782743524471@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "xzATtEp1i8LmsJ28"
+        },
+        {
+            "nome": "Marta Josefina",
+            "email": "marta1782743520375@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "xzUqcNJzBa6H135U"
+        },
+        {
+            "nome": "Marta Josefina",
+            "email": "marta1782743518741@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "yqsk7cCkL7fwqQtn"
+        }
+    ]
+}
