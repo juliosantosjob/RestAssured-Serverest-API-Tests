@@ -1,0 +1,263 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=28684500a7a71560d58e3ebbb6a386b8
+date=Tue, 30 Jun 2026 14:09:07 GMT
+server=Google Frontend
+Content-Length=7795
+Body: {
+    "quantidade": 35,
+    "usuarios": [
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum1782827704374823@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "0OPzX0xxCDheoeID"
+        },
+        {
+            "nome": "Derek.Bogan51",
+            "email": "Fatima84@gmail.com",
+            "password": "246730333",
+            "administrador": "true",
+            "_id": "0qdfPz5vLnoSMav3"
+        },
+        {
+            "nome": "Usuario Admin",
+            "email": "usuario.admin17828239416397795@gmail.com",
+            "password": "senha_admin",
+            "administrador": "true",
+            "_id": "3bYNeBQhlL6A3Ttj"
+        },
+        {
+            "nome": "User Name",
+            "email": "user1234@example.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "81LuZKLWfleMY2fA"
+        },
+        {
+            "nome": "User Name",
+            "email": "user1782827349160@example.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "8BdCb8TppCC7J2lm"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum17828266591517120@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "9mobPN77dFjRTnCa"
+        },
+        {
+            "nome": "Graham",
+            "email": "bertie.carter@gmail.com",
+            "password": "g46eyshbvki",
+            "administrador": "true",
+            "_id": "CcMhkSncm9e9UH8u"
+        },
+        {
+            "nome": "Admin Teste 7445",
+            "email": "bryan.qa.002@test.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "HL8vApPftGOJTcuF"
+        },
+        {
+            "nome": "Daniel carrasco",
+            "email": "bryan.qa.004@test.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "IiDEj0mEYMnNGJm8"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum17828262202409894@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "Lg0HsaLFX9jvUYsy"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "LyofGEatK6af4cfD"
+        },
+        {
+            "nome": "Herbert Weigert",
+            "email": "herbert.venancio@objective.com.br",
+            "password": "v2c!8^XgGu",
+            "administrador": "false",
+            "_id": "MdSYcnaGX8j9Cmqc"
+        },
+        {
+            "nome": "User Name",
+            "email": "user1782827481378@example.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "ODlgYNoyXsJVyyza"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum17828266793526355@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "OLzDAAMLdgAFON9Q"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum17828239410831529@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "S0t1YxA07KMkikRh"
+        },
+        {
+            "nome": "Kelvin Schuster",
+            "email": "kelvinschuster@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "WXpZh3VujCilJmmQ"
+        },
+        {
+            "nome": "Lila_Renner",
+            "email": "Cade_Flatley13@gmail.com",
+            "password": "599631349",
+            "administrador": "true",
+            "_id": "X5H94pPop9xiEXVe"
+        },
+        {
+            "nome": "Mr. Emma McClure",
+            "email": "mr.emmamcclure@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "YIxRR309NioYNiQr"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum17828239430925580@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "Z1K1Vj4kNsMkNx2j"
+        },
+        {
+            "nome": "Ed Predovic",
+            "email": "edpredovic@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "cvH4OZWS4i3eqSb5"
+        },
+        {
+            "nome": "Mr. Kristine Mertz",
+            "email": "mr.kristinemertz@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "fNEPqoBD7BUJHp5x"
+        },
+        {
+            "nome": "User Name",
+            "email": "user1782827489321@example.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "guI4JdYb4e7DO9Al"
+        },
+        {
+            "nome": "Monserrat.Howell",
+            "email": "Joelle.Ortiz@yahoo.com",
+            "password": "027189582",
+            "administrador": "true",
+            "_id": "gw7MafRtUYAJVqIU"
+        },
+        {
+            "nome": "User Name",
+            "email": "user1782827446745@example.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "h4NsA1cK0WFiWBVZ"
+        },
+        {
+            "nome": "QA Teste",
+            "email": "teste@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "hZGeSuqhJ2FbKeuv"
+        },
+        {
+            "nome": "Rosemarie Mitchell",
+            "email": "earnestrobel@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "ik7e5TIV9SunbYdt"
+        },
+        {
+            "nome": "Simone69",
+            "email": "Katelin.OKeefe85@yahoo.com",
+            "password": "203521587",
+            "administrador": "true",
+            "_id": "mkSxPXXnEZDOcuMK"
+        },
+        {
+            "nome": "Natalia92",
+            "email": "Bud85@hotmail.com",
+            "password": "879272239",
+            "administrador": "true",
+            "_id": "nOj9m2i3b562IW7x"
+        },
+        {
+            "nome": "Jazz da Silva",
+            "email": "jazz@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "nXtNn7V9NS8pqjXS"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum17828239303114533@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "pUCP9kR1k1mzaYih"
+        },
+        {
+            "nome": "Stephon79",
+            "email": "Brown.Medhurst@hotmail.com",
+            "password": "078218960",
+            "administrador": "true",
+            "_id": "pZXYAYZKLIPOShIZ"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum17828264934863798@gmail.com",
+            "password": "senha_comum",
+            "administrador": "false",
+            "_id": "rvh7iYtsAfv2ZnXQ"
+        },
+        {
+            "nome": "Jo Hyatt",
+            "email": "johyatt@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "tKEW1dM9wwxEPR8B"
+        },
+        {
+            "nome": "Daniel Marquina",
+            "email": "bryan.qa.003@test.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "w0zDeOrhgY5gkhoG"
+        },
+        {
+            "nome": "Dr. Belinda Collier",
+            "email": "dr.belindacollier@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "xidRHbKIrd6qoVfr"
+        }
+    ]
+}
