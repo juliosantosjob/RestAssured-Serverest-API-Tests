@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=1cef12ebb38e935d80263c86003d6957
+date=Tue, 30 Jun 2026 21:24:51 GMT
+server=Google Frontend
+Content-Length=180
+Body: {
+    "nome": "Usuario Comum",
+    "email": "usuario.comum17828546410612889@gmail.com",
+    "password": "senha_comum",
+    "administrador": "false",
+    "_id": "0a6ueDAbT5GuxApR"
+}
