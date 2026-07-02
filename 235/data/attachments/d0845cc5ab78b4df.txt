@@ -1,0 +1,60 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=d0eb85d3f046b3e130ca332e639ee177
+date=Thu, 02 Jul 2026 21:00:05 GMT
+server=Google Frontend
+Content-Length=1320
+Body: {
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "maria",
+            "email": "Karlawe1@karla.co",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "5TU0oGRAtDqfia4k"
+        },
+        {
+            "nome": "Debug User",
+            "email": "debug_storage@teste.com",
+            "password": "Cypress@123",
+            "administrador": "true",
+            "_id": "BDD889Rx3RJREeQa"
+        },
+        {
+            "nome": "Jason",
+            "email": "stasia.leffler@gmail.com",
+            "password": "t27hd7jyp",
+            "administrador": "true",
+            "_id": "d31ZCMFpG1e3oT8Y"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "user1783025794847@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "sJ1YjL4Y2lLDvqL7"
+        },
+        {
+            "nome": "Vitória Souza",
+            "password": "Cypress@123",
+            "administrador": "true",
+            "email": "Mercia10@hotmail.com",
+            "_id": "ujTkEJY5wx56hPUL"
+        }
+    ]
+}
