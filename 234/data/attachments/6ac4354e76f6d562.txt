@@ -1,0 +1,53 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=e801596545e5a0ff6395b80a52dcec25;o=1
+date=Thu, 02 Jul 2026 13:47:52 GMT
+server=Google Frontend
+Content-Length=1103
+Body: {
+    "quantidade": 5,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Fulana",
+            "email": "usuario1782999668566@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "14XmWOdBmPPWuBYP"
+        },
+        {
+            "nome": "Fulana",
+            "email": "usuario1783000010312@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Gfe8zCtRUw0VFkIi"
+        },
+        {
+            "nome": "Fulana",
+            "email": "usuario1782999907501@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "KDBbDSfmribaklwM"
+        },
+        {
+            "nome": "Forrest",
+            "email": "titus.cole@yahoo.com",
+            "password": "ugcng2lo",
+            "administrador": "true",
+            "_id": "LJQigOm81XsEWON9"
+        }
+    ]
+}
