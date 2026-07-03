@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=b9f67b8348a204a16651ceef1b724859
+date=Fri, 03 Jul 2026 20:59:14 GMT
+server=Google Frontend
+Content-Length=202
+Body: {
+    "nome": "Ricardo Fahham - https://youtube.com/@horadoqa",
+    "email": "ricardo.1783106428554@example.com",
+    "password": "1q2w3e4r",
+    "administrador": "true",
+    "_id": "05Cznlth9HFYlad6"
+}
