@@ -1,0 +1,249 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=83afd51f60e32b418630cf3eb9121716
+date=Mon, 13 Jul 2026 14:22:37 GMT
+server=Google Frontend
+Content-Length=7779
+Body: {
+    "quantidade": 33,
+    "usuarios": [
+        {
+            "nome": "API User 1783952295990",
+            "email": "api.1783952295990@mail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "0IByh1cw7VXk6MZJ"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "AdministradorMaria Ferreira",
+            "email": "admin17839521478297973@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "5q39pGkmkZBVAw0x"
+        },
+        {
+            "nome": "API User 1783952095913",
+            "email": "api.1783952095913@mail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "6fLxVHxrZkbC4bxc"
+        },
+        {
+            "nome": "User Teste 1783952358526105",
+            "email": "qa-teste.1783952358526105@teste.com.br",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "7vZGL6Cd0znosinL"
+        },
+        {
+            "nome": "Felipe Santos",
+            "email": "comum17839521386423283@email.com",
+            "password": "Teste@123Teste@123",
+            "administrador": "false",
+            "_id": "8nJaUufxkiutl5aV"
+        },
+        {
+            "nome": "API User 1783952282352",
+            "email": "api.1783952282352@mail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "BJYfvwA5lfWtVeIZ"
+        },
+        {
+            "nome": "User Teste 1783952352751849",
+            "email": "qa-teste.1783952352751849@teste.com.br",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "MOw5m7tltXvlTuST"
+        },
+        {
+            "nome": "AdministradorJuliana Oliveira",
+            "email": "admin17839525506474393@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "NrcozBRYM5tevAYJ"
+        },
+        {
+            "nome": "User Teste 1783952362367942",
+            "email": "qa-teste.1783952362367942@teste.com.br",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "OfVEoqyQinRI6OYe"
+        },
+        {
+            "nome": "João Alves",
+            "email": "comum17839521185535151@email.com",
+            "password": "Teste@123Teste@123",
+            "administrador": "false",
+            "_id": "P3heWy99J4iZiiU4"
+        },
+        {
+            "nome": "Ollie Spinka DVM",
+            "email": "Damaris27@yahoo.com",
+            "password": "Teste@123",
+            "administrador": "false",
+            "_id": "RvwMaUgoPxbTy94G"
+        },
+        {
+            "nome": "API User 1783952143597",
+            "email": "api.1783952143597@mail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "Sdyc8rTBKt5CSpij"
+        },
+        {
+            "nome": "API User 1783952096285",
+            "email": "api.1783952096285@mail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "SmOixqNvUbBMC71Y"
+        },
+        {
+            "nome": "API User 1783952295625",
+            "email": "api.1783952295625@mail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "TLGiLZHI2zl7hnJu"
+        },
+        {
+            "nome": "AdministradorPedro Pereira",
+            "email": "admin17839521596731100@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "UjSnEOgLYAD3gxmT"
+        },
+        {
+            "nome": "Maria Santos",
+            "email": "comum17839521403759233@email.com",
+            "password": "Teste@123Teste@123",
+            "administrador": "false",
+            "_id": "V5IWd0gwyYRRwdPX"
+        },
+        {
+            "nome": "API User 1783952286687",
+            "email": "api.1783952286687@mail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "VPPjgqn2D0PEwd9P"
+        },
+        {
+            "nome": "AdministradorBeatriz Costa",
+            "email": "admin1783952157288380@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "WZhJ22VRtSYa1ScP"
+        },
+        {
+            "nome": "AdministradorPedro Ferreira",
+            "email": "admin17839525530436729@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "XEiOyW6bkCRZzXnX"
+        },
+        {
+            "nome": "User Teste 1783952375648937",
+            "email": "qa-teste.1783952375648937@teste.com.br",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "aUNGMigAaYywcTeR"
+        },
+        {
+            "nome": "Pedro Santos",
+            "email": "comum17839521294928034@email.com",
+            "password": "Teste@123Teste@123",
+            "administrador": "false",
+            "_id": "fSmP1E8seNHjWjD3"
+        },
+        {
+            "nome": "AdministradorJuliana Santos",
+            "email": "admin17839521502325723@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "flk7n3R8wrHU9heP"
+        },
+        {
+            "nome": "Maria Pereira",
+            "email": "comum1783952112606756@email.com",
+            "password": "Teste@123Teste@123",
+            "administrador": "false",
+            "_id": "gooc6zauu0kGefQT"
+        },
+        {
+            "nome": "User Teste 1783952384616956",
+            "email": "qa-teste.1783952384616956@teste.com.br",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "gzlUejWLFblSEU0G"
+        },
+        {
+            "nome": "Eduardo",
+            "email": "kerry.greenfelder@gmail.com",
+            "password": "62juqch1",
+            "administrador": "true",
+            "_id": "kPnWKLSi7oCwCu2t"
+        },
+        {
+            "nome": "AdministradorCarlos Silva",
+            "email": "admin17839525460848589@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "mJzeLX0ZCa5lAxkA"
+        },
+        {
+            "nome": "AdministradorJoão Pereira",
+            "email": "admin17839521454638592@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "o07lDReKdRXxMjpw"
+        },
+        {
+            "nome": "AdministradorJoão Ferreira",
+            "email": "admin17839525483459299@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "okflwl9NDbU00ojG"
+        },
+        {
+            "nome": "API User 1783952138108",
+            "email": "api.1783952138108@mail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "sDnUdwYCYnpWGfw6"
+        },
+        {
+            "nome": "Anthony McGlynn",
+            "email": "Chanelle_Dooley@gmail.com",
+            "password": "Teste@123",
+            "administrador": "false",
+            "_id": "t2Ok9FcUalZGgQXZ"
+        },
+        {
+            "nome": "AdministradorPedro Oliveira",
+            "email": "admin17839521525947521@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "uRgwKJ1wkc7FKruY"
+        },
+        {
+            "nome": "Colleen Will",
+            "email": "Marisol_Quitzon32@hotmail.com",
+            "password": "Teste@123",
+            "administrador": "false",
+            "_id": "yJ5pdsEnO7sZSf7M"
+        }
+    ]
+}
