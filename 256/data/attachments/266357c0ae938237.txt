@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=bcaae5eb6a68bea95a5d7cf37d63c6ee
+date=Fri, 17 Jul 2026 13:17:14 GMT
+server=Google Frontend
+Content-Length=159
+Body: {
+    "nome": "Lewis Rosenbaum",
+    "email": "Aracely.Huels@gmail.com",
+    "password": "123456",
+    "administrador": "true",
+    "_id": "00sPWWoChsIUT8nD"
+}
