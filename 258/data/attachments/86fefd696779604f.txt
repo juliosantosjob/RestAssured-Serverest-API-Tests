@@ -1,0 +1,270 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=65bb1a829bcd668a8c2af5c6a6209cc1
+date=Mon, 20 Jul 2026 13:55:45 GMT
+server=Google Frontend
+Content-Length=8062
+Body: {
+    "quantidade": 36,
+    "usuarios": [
+        {
+            "nome": "Blake Dach",
+            "email": "blakedach@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "045BtphfLNNvLizq"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Tasha Murazik",
+            "email": "qa.1784554532845.veix8v@teste.com",
+            "password": "Senha@1543",
+            "administrador": "false",
+            "_id": "1Bwr5J6DAwnZ5uDo"
+        },
+        {
+            "nome": "Delia Huels",
+            "email": "qa.1784554444539.qkag7w@teste.com",
+            "password": "Senha@2510",
+            "administrador": "false",
+            "_id": "3o7dHxOnOmYIWxUX"
+        },
+        {
+            "nome": "Angelo Franecki",
+            "email": "qa.1784554548671.qtlipl@teste.com",
+            "password": "Senha@5064",
+            "administrador": "false",
+            "_id": "6OSjE2Yk2vllwX8o"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "6x2NEfzR8rmICqPf"
+        },
+        {
+            "nome": "Mr. Fredrick Mraz-Hane",
+            "email": "qa.1784554565494.jqcr2i@teste.com",
+            "password": "Senha@7933",
+            "administrador": "false",
+            "_id": "C16jQRgKmyELQigH"
+        },
+        {
+            "nome": "Kevin Ziemann",
+            "email": "qa.1784555687949.lf85pi@teste.com",
+            "password": "Senha@7281",
+            "administrador": "false",
+            "_id": "EAwXGrkXmzUNnq2c"
+        },
+        {
+            "nome": "Amanda Kovacek",
+            "email": "test_daniela85@gmail.com",
+            "password": "AFFH5w",
+            "administrador": "false",
+            "_id": "GdZKkjOeEm1xznqb"
+        },
+        {
+            "nome": "Edmund Deckow",
+            "email": "qa.1784555696036.btzfhl@teste.com",
+            "password": "Senha@5639",
+            "administrador": "false",
+            "_id": "GfVntwAwoTX2lAQe"
+        },
+        {
+            "nome": "Derek Shields",
+            "email": "randallframi@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "GxAAbpbuWQHdzQGM"
+        },
+        {
+            "nome": "Theodore58",
+            "email": "Frank.Jakubowski-Orn@yahoo.com",
+            "password": "878512033",
+            "administrador": "true",
+            "_id": "IzSx8pj851VnmaWA"
+        },
+        {
+            "nome": "Ben Langworth-Lubowitz",
+            "email": "qa.1784555723061.wgogqg@teste.com",
+            "password": "Senha@7197",
+            "administrador": "false",
+            "_id": "JNDawzftZxo8ZQwY"
+        },
+        {
+            "nome": "Lee Parisian MD",
+            "email": "qa.1784554555868.ww08wq@teste.com",
+            "password": "Senha@6011",
+            "administrador": "false",
+            "_id": "JXfH2OPWzSFmkvJU"
+        },
+        {
+            "nome": "vitor",
+            "email": "vitorqa@teste.com",
+            "password": "000",
+            "administrador": "true",
+            "_id": "LU8Rv1iVtzRzAMd1"
+        },
+        {
+            "nome": "Debra Tremblay",
+            "email": "qa.1784555705899.noq58m@teste.com",
+            "password": "Senha@5992",
+            "administrador": "false",
+            "_id": "RZv15RfpKYb4yxkI"
+        },
+        {
+            "nome": "Erik Prohaska",
+            "email": "erikprohaska@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "RnkA8sbyvwvngNCs"
+        },
+        {
+            "nome": "Susan Mitchell",
+            "email": "qa.1784554467527.w0hosm@teste.com",
+            "password": "Senha@6423",
+            "administrador": "false",
+            "_id": "X0TUm46YG3dqJgwx"
+        },
+        {
+            "nome": "Marjorie Schroeder",
+            "email": "qa.1784554483870.ysccug@teste.com",
+            "password": "Senha@8731",
+            "administrador": "false",
+            "_id": "ZLEDeZqG6r7KCrHS"
+        },
+        {
+            "nome": "Stephani",
+            "email": "silas.gutkowski@yahoo.com",
+            "password": "ctn9fcu89tqfr24",
+            "administrador": "true",
+            "_id": "aYghnMiEzPbgax8z"
+        },
+        {
+            "nome": "vitor",
+            "email": "aliceqa@teste.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "cJgRzDBWY0OevFXJ"
+        },
+        {
+            "nome": "Dean Abernathy",
+            "email": "qa.1784554539449.1yyjjy@teste.com",
+            "password": "Senha@8261",
+            "administrador": "true",
+            "_id": "d5b1Q5knO00Ime7n"
+        },
+        {
+            "nome": "Alton Turcotte",
+            "email": "qa.1784554475234.pbsczw@teste.com",
+            "password": "Senha@1156",
+            "administrador": "false",
+            "_id": "d91PjOTrGMVUCBTz"
+        },
+        {
+            "nome": "Mr. Francisco Grant DDS",
+            "email": "qa.1784555695441.vrgkpp@teste.com",
+            "password": "Senha@6098",
+            "administrador": "true",
+            "_id": "eFO7UNEt3M1keMRg"
+        },
+        {
+            "nome": "Jeanne Paucek",
+            "email": "jeannepaucek@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "fS9jD4PRCn2UCE0U"
+        },
+        {
+            "nome": "Ervin Ondricka",
+            "email": "qa.1784554436995.jfflrd@teste.com",
+            "password": "Senha@1213",
+            "administrador": "false",
+            "_id": "iHC1rQVDnxsva0U3"
+        },
+        {
+            "nome": "Clarence Sauer",
+            "email": "clarencesauer@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "ku4vt8LS45cXOohZ"
+        },
+        {
+            "nome": "Michelle Nitzsche",
+            "email": "qa.1784555713194.1fwzu1@teste.com",
+            "password": "Senha@5549",
+            "administrador": "false",
+            "_id": "o7qrVWhVvFaEqsyD"
+        },
+        {
+            "nome": "Ms. Alexis Abernathy",
+            "email": "qa.1784554540145.7gjwpp@teste.com",
+            "password": "Senha@6975",
+            "administrador": "false",
+            "_id": "okZgEdUAgTOVBhRq"
+        },
+        {
+            "nome": "Andres Witting",
+            "email": "test_zackary35@hotmail.com",
+            "password": "Vdss42",
+            "administrador": "false",
+            "_id": "rSqWVZ2Vp0izBG0W"
+        },
+        {
+            "nome": "vitor",
+            "email": "testes1@qa.com",
+            "password": "04",
+            "administrador": "true",
+            "_id": "rwWKv4Mh8GmQpvfp"
+        },
+        {
+            "nome": "Evelyn Kub",
+            "email": "evelynkub@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "soAHXzQexlt8hNze"
+        },
+        {
+            "nome": "Velma Fay",
+            "email": "qa.1784554443931.n1gbkz@teste.com",
+            "password": "Senha@4989",
+            "administrador": "true",
+            "_id": "t7IZ0mYrkPw345wH"
+        },
+        {
+            "nome": "Erik Bashirian",
+            "email": "erikbashirian@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "xtlPe5ADiQhYyXW2"
+        },
+        {
+            "nome": "Vergie Crooks-Huel",
+            "email": "test_ezequiel.lubowitz@gmail.com",
+            "password": "FyTifi",
+            "administrador": "false",
+            "_id": "yQNxHUNoN3bIzYDY"
+        },
+        {
+            "nome": "Gabriel Leal",
+            "email": "gabriel@gmail.com.br",
+            "password": "teste678",
+            "administrador": "true",
+            "_id": "yW5UHAbFWfA0yoMY"
+        }
+    ]
+}
