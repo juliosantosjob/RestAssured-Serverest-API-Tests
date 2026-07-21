@@ -1,0 +1,172 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=33ed1d1ed194969f71db667fb0da34a6
+date=Tue, 21 Jul 2026 21:02:38 GMT
+server=Google Frontend
+Content-Length=5267
+Body: {
+    "quantidade": 22,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Peter",
+            "email": "peter@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "1ErYKQd4sGSQ2rVH"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_update_07a2113b-dc3b-46d0-a20f-66716eab5c26@teste.com",
+            "password": "654321",
+            "administrador": "false",
+            "_id": "1iidRXyk2Uh9eWMf"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_update_4f1a01a7-5b56-40aa-a451-490dd10fe978@teste.com",
+            "password": "654321",
+            "administrador": "false",
+            "_id": "A8T4NjLLW2TG82q3"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_update_68839644-ac79-4168-a601-5382532e7532@teste.com",
+            "password": "654321",
+            "administrador": "false",
+            "_id": "EWmFqxzK0sG1ggrB"
+        },
+        {
+            "nome": "Usuario Karate",
+            "email": "qa_12c5bc5c-3e8c-4729-bd1e-22d1a06d987f@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "HOtt4Ov4uhg4qeON"
+        },
+        {
+            "nome": "Exie",
+            "email": "justin.weissnat@hotmail.com",
+            "password": "bq9r94mvpbin9c",
+            "administrador": "true",
+            "_id": "J0lvLTZWMBTZlZvH"
+        },
+        {
+            "nome": "QA Automation 1784666590694",
+            "email": "qa_1784666590694@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "Ksv6DzzHpEiliZa8"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_update_27e37bd3-c2e4-40fe-aa9b-64c41babb777@teste.com",
+            "password": "654321",
+            "administrador": "false",
+            "_id": "PCthQMvVmnmU68Bv"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_update_49c61d3f-3e1f-44df-a624-7b8858df4fd6@teste.com",
+            "password": "654321",
+            "administrador": "false",
+            "_id": "RwTCwO2d41E0ljYy"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_update_2068dbe0-f4a6-4d7c-baec-769fe5e60fab@teste.com",
+            "password": "654321",
+            "administrador": "false",
+            "_id": "a1YoufmyX3nbGL4V"
+        },
+        {
+            "nome": "Maria Testes aula",
+            "email": "neuda.signorette@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "aV6C0gVpv3wLXpym"
+        },
+        {
+            "nome": "Usuario Karate",
+            "email": "qa_8399f6f7-2f2d-45ee-99ae-ec122151aae5@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "cYvnMCsMttu8noLp"
+        },
+        {
+            "nome": "PeterV",
+            "email": "peter24@hotmail.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "g1ygVeGkRmiBzLzl"
+        },
+        {
+            "nome": "QA Automation 1784667184975",
+            "email": "qa_1784667184975@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "kuIokEkjpBYct8nH"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "ljGdk7MRdGtXFUHf"
+        },
+        {
+            "nome": "QA Automation 1784667705539",
+            "email": "qa_1784667705539@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "lvf0wS2cV97prHPG"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_update_3b70dab1-cdf9-4126-8371-dde1ed1a2171@teste.com",
+            "password": "654321",
+            "administrador": "false",
+            "_id": "lzijdlErsRk7XMLF"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_update_53f692a5-7e82-4625-ad83-757fdd36cc16@teste.com",
+            "password": "654321",
+            "administrador": "false",
+            "_id": "mfBGHTxiLlbGic0w"
+        },
+        {
+            "nome": "QA Automation 1784666607562",
+            "email": "qa_1784666607562@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "qDk9ye2BrNieiuN2"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "email": "qa_update_7d52fb78-277d-470a-8949-8c0fb526b630@teste.com",
+            "password": "654321",
+            "administrador": "false",
+            "_id": "sC7Q2WFiljWJxkU7"
+        },
+        {
+            "nome": "Usuario Karate",
+            "email": "qa_912ac96d-02be-4539-a354-2416f0ead387@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "xVKueMsR33fZ6IrH"
+        }
+    ]
+}
