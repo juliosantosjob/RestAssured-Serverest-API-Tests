@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=92f0d652dfef04209a7ba5e51136528d
+date=Thu, 23 Jul 2026 20:57:36 GMT
+server=Google Frontend
+Content-Length=161
+Body: {
+    "nome": "Fulano da Silva",
+    "email": "zqsrloycdr@emailteste.com",
+    "password": "123456",
+    "administrador": "true",
+    "_id": "01ZyCVUf9ff5u4He"
+}
