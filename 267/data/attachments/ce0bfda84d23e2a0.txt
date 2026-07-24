@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=43248b62a7300f2542d83b2480982320
+date=Fri, 24 Jul 2026 20:58:24 GMT
+server=Google Frontend
+Content-Length=180
+Body: {
+    "nome": "Dong Zboncak DDS",
+    "email": "qa.update+772168940028600@mailinator.com",
+    "password": "teste123",
+    "administrador": "false",
+    "_id": "0tUXtvEor7LmeZ78"
+}
