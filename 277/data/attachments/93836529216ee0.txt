@@ -1,0 +1,165 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=88425054f0cce1038f56e677953a99f6
+date=Fri, 31 Jul 2026 21:00:14 GMT
+server=Google Frontend
+Content-Length=4447
+Body: {
+    "quantidade": 21,
+    "usuarios": [
+        {
+            "nome": "Usuario Editado",
+            "email": "editado@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Anderson Teste",
+            "email": "anderson10@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "1LE6JGU9ongsH5jC"
+        },
+        {
+            "nome": "Leonardo",
+            "email": "karry.bahringer@hotmail.com",
+            "password": "bn3f49ooi2yo",
+            "administrador": "true",
+            "_id": "3C1kEYuWZwule6fZ"
+        },
+        {
+            "nome": "HeloRib189",
+            "email": "helo189@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "5T8NuK1C2K7jYUG1"
+        },
+        {
+            "nome": "Britney Knowles",
+            "email": "britneyknowles@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "71dYYuS89CWFeLa8"
+        },
+        {
+            "nome": "User 1",
+            "email": "qa_test_e4dc31b1@test.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "7hke3vR4G6jaWjT8"
+        },
+        {
+            "nome": "Anderson Teste",
+            "email": "anderson15@qa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "BsE6DdEQyZ1ypAdx"
+        },
+        {
+            "nome": "Vinicius da Silva",
+            "email": "robinho123@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "EEa1OKxFxctrtrvx"
+        },
+        {
+            "nome": "Eu QA Gustavo Machado",
+            "email": "eu-qa@eu-qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "GrxusRO7yiC6gAKN"
+        },
+        {
+            "nome": "HeloRib190",
+            "email": "helo190@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "Phjr8xKsEiufBO1z"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "----------",
+            "administrador": "true",
+            "_id": "Pm5qElYjf1WrU68j"
+        },
+        {
+            "nome": "HeloRib187",
+            "email": "helo187@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "RWKbx4XO9ZyULPxC"
+        },
+        {
+            "nome": "User 1",
+            "email": "qa_test_1bdad6cb@test.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "T9K1klgeU1cXHYuK"
+        },
+        {
+            "nome": "HeloRib193",
+            "email": "helo193@qa.com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "eO7LPoVdrn1hmxo4"
+        },
+        {
+            "nome": "HeloRib192",
+            "email": "helo192@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "gPbWmHyRNbBVSXPK"
+        },
+        {
+            "nome": "User 1",
+            "email": "qa_test_a9b3ec35@test.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "loFOh4YquIfcPkjJ"
+        },
+        {
+            "nome": "Test User",
+            "email": "qa_test_a83c9e97@test.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "m2WbxPBbc3M1NIKF"
+        },
+        {
+            "nome": "Test User",
+            "email": "qa_test_9a2d3f5e@test.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "mF0ryKp7CQauHDWj"
+        },
+        {
+            "nome": "HeloRib201",
+            "email": "helo201@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "t7M4iq94KXV1WjmV"
+        },
+        {
+            "nome": "Test User",
+            "email": "qa_test_33cf029a@test.com",
+            "password": "123",
+            "administrador": "true",
+            "_id": "xyIYuxFlO3Rs3nhp"
+        },
+        {
+            "nome": "HeloRib202",
+            "email": "helo202@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "yk3TZWaaltqZtl0s"
+        }
+    ]
+}
