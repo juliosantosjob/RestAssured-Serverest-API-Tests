@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=81ce4278a3e8a990179287cad9e94a14
+date=Mon, 03 Aug 2026 14:28:00 GMT
+server=Google Frontend
+Content-Length=180
+Body: {
+    "nome": "Austin Vandervort",
+    "email": "qa.1785760294321.7chyv@serverest.dev",
+    "password": "tAUsPXP_JgK3",
+    "administrador": "true",
+    "_id": "0aDUJv9wXoEJFMpA"
+}
