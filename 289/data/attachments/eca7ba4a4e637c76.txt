@@ -1,0 +1,102 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=860c9e6765b7824181301b0ddc6b1e60
+date=Mon, 10 Aug 2026 20:36:26 GMT
+server=Google Frontend
+Content-Length=2617
+Body: {
+    "quantidade": 12,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "crud Automation",
+            "email": "crud-1786393590100@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "3q3y7QJCjMltWUfd"
+        },
+        {
+            "nome": "Dandara Teste",
+            "email": "dandara@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "A2PYXiBXL24GvY51"
+        },
+        {
+            "nome": "Dandara Teste",
+            "email": "testedandara@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "AFxt27CrQdTrC5jd"
+        },
+        {
+            "nome": "Dandara Teste",
+            "email": "teste_dandara@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "BGro86ubE7U9LQN2"
+        },
+        {
+            "nome": "Gabriel Lima",
+            "email": "gh@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "Fxld1jPVqNlvpbav"
+        },
+        {
+            "nome": "ciclano",
+            "email": "ciclano@qa.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "KwtZAn2fFINeHOkr"
+        },
+        {
+            "nome": "Usuario Actualizado",
+            "password": "NovaSenha@123",
+            "administrador": "false",
+            "email": "update-1786393592120@teste.com",
+            "_id": "SnvOOC5uw8YSRbOs"
+        },
+        {
+            "nome": "Dandara Teste",
+            "email": "dandara_teste@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "VSLCivzOW5ujNPqq"
+        },
+        {
+            "nome": "William",
+            "email": "clyde.macejkovic@yahoo.com",
+            "password": "78xwvkqq",
+            "administrador": "true",
+            "_id": "VxCG8Er65KJGIUAW"
+        },
+        {
+            "nome": "byid Automation",
+            "email": "byid-1786393590601@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "YhTlsmy7S0jcApB4"
+        },
+        {
+            "nome": "Dandara Teste",
+            "email": "dandarateste@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "qIT0EgWQAlunqrcT"
+        }
+    ]
+}
