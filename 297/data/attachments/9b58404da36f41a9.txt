@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=7a4882c4de1638e44a282a3999838daa
+date=Fri, 14 Aug 2026 20:26:05 GMT
+server=Google Frontend
+Content-Length=189
+Body: {
+    "nome": "k6 Load User 11_27_1786736824014",
+    "email": "k6_11_27_1786736824014@teste.com",
+    "password": "Teste@123",
+    "administrador": "false",
+    "_id": "0CycWHcjKb1dASTd"
+}
