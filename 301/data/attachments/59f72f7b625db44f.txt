@@ -1,0 +1,333 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=f2ffb7400e33f51db9875d1a6351551d
+date=Tue, 18 Aug 2026 20:17:51 GMT
+server=Google Frontend
+Content-Length=9857
+Body: {
+    "quantidade": 45,
+    "usuarios": [
+        {
+            "nome": "usuario1787084264905",
+            "email": "usuario1787084264905@test.com",
+            "password": "Contraseña1787084264905",
+            "administrador": "true",
+            "_id": "0agajJB0Kwphi4bp"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario Automação",
+            "email": "qa_tester_1787081628758@carrefour.com.br",
+            "password": "senha_segura_123",
+            "administrador": "true",
+            "_id": "1CQMS1PBpeiOIjdh"
+        },
+        {
+            "nome": "QA Teste",
+            "email": "qa1787082679294@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "4mSliWQVOtQU053L"
+        },
+        {
+            "nome": "Isabruna",
+            "email": "isabruna.silva@aluno.senai.br",
+            "password": "Senai@26",
+            "administrador": "true",
+            "_id": "9sidYBeXVfRXRVld"
+        },
+        {
+            "nome": "mavi",
+            "email": "maria.v.lima32@aluno.senai.br",
+            "password": "teste1234",
+            "administrador": "true",
+            "_id": "AFjg8qp3b1NT6TrP"
+        },
+        {
+            "nome": "Anny",
+            "email": "anny@gmail.com.br",
+            "password": "teste1234",
+            "administrador": "true",
+            "_id": "BTJiJTZkaJT8bOet"
+        },
+        {
+            "nome": "Beatriz",
+            "email": "Beatriz@gmail.com.br",
+            "password": "teste012",
+            "administrador": "true",
+            "_id": "BcxdE1QWhPEBa7El"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "lisew@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "Cc6jFTkXtxKNPRo4"
+        },
+        {
+            "nome": "albertina",
+            "email": "albertina@aluno.senai.br",
+            "password": "Senai40",
+            "administrador": "true",
+            "_id": "DWhYaJjtJK00v2FC"
+        },
+        {
+            "nome": "Eduarda",
+            "email": "duda@qa.com.br",
+            "password": "teste123456",
+            "administrador": "true",
+            "_id": "EtkxFOFflAgDdrJ1"
+        },
+        {
+            "nome": "Rafael Alves maia pereira",
+            "email": "rafael.a.pereira17@aluno.senai.br",
+            "password": "Rafael67",
+            "administrador": "true",
+            "_id": "ExB1IFRJXPsD8Ozy"
+        },
+        {
+            "nome": "hilary da Silva",
+            "email": "albertw@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "FxMa2gVwYRRKEVAN"
+        },
+        {
+            "nome": "Miguel",
+            "email": "Miguel@qa.com.br",
+            "password": "Miguel123",
+            "administrador": "true",
+            "_id": "GsBg1Cd3kKgTdN0O"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "kerlon@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "I8n4bgTVIc6pLes4"
+        },
+        {
+            "nome": "albertina",
+            "email": "aqlbertina@aluno.senai.br",
+            "password": "Senai40",
+            "administrador": "true",
+            "_id": "Isq4LddRoEGdpnuR"
+        },
+        {
+            "nome": "Fulanno",
+            "email": "fulan@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "JVKcOcbixo2JOsvG"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "rmx@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "L1QWg62ZFf1diGKk"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "meuemail@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "LSVezrcAscjJcO1n"
+        },
+        {
+            "nome": "Neymar daSilva Santos Junior",
+            "email": "neymar@gmail.com.br",
+            "password": "mavie2025",
+            "administrador": "true",
+            "_id": "MJVQO07QXPLOJQbM"
+        },
+        {
+            "nome": "Mariaaa",
+            "email": "maria.v.lima34@aluno.senai.br",
+            "password": "teste12345678910",
+            "administrador": "true",
+            "_id": "N1XUyWThE5IVjhGm"
+        },
+        {
+            "nome": "Ricardo Castro",
+            "email": "ricardofc.ti@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "OdrkluBQv9k0Vf9H"
+        },
+        {
+            "nome": "dodoy",
+            "email": "jhefiledodoy@email.com.br",
+            "password": "tlgd125425",
+            "administrador": "true",
+            "_id": "QnaQoOKhQP3TgIa5"
+        },
+        {
+            "nome": "trllface",
+            "email": "aaaaaa@gmail.com",
+            "password": "davydjones2424",
+            "administrador": "true",
+            "_id": "Qu8JCXMfwsmqs9MT"
+        },
+        {
+            "nome": "Marilia",
+            "email": "maria.v.lima35@aluno.senai.br",
+            "password": "teste12345678910",
+            "administrador": "true",
+            "_id": "UiGbJXEZK81suR3c"
+        },
+        {
+            "nome": "Luan Rodrigues",
+            "email": "luan.p.rodrigues7@aluno.senai.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "YIFeLcGR6NFtzCOd"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "eduardo.o.silva26@aluno.senai.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "YcAYdSrzKp2QYTA9"
+        },
+        {
+            "nome": "Helen Lopes",
+            "email": "helendalopes97@gmail.com",
+            "password": "789456",
+            "administrador": "true",
+            "_id": "aObE6LUrexrr2iD8"
+        },
+        {
+            "nome": "martins",
+            "email": "jhennyfer.godoy@aluno.senai.br",
+            "password": "teste1237656789",
+            "administrador": "true",
+            "_id": "btTcIugnBZO7DI4c"
+        },
+        {
+            "nome": "Alinne",
+            "email": "aline.salinas@aluno.senai.br",
+            "password": "alinne1212",
+            "administrador": "true",
+            "_id": "diHbUs4dEaTpwEPQ"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "joao.n.sales@aluno.senai.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "eCAWSD7WQ4iYwrUn"
+        },
+        {
+            "nome": "guga",
+            "email": "emilio.melo@aluno.senai.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "eqSFcZNduXrfuMJG"
+        },
+        {
+            "nome": "braga",
+            "email": "meloe6095@gamil.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "fI1OSJc3Fr4zoC5e"
+        },
+        {
+            "nome": "usuario1787084269319",
+            "email": "usuario1787084269319@test.com",
+            "password": "Contraseña1787084269319",
+            "administrador": "true",
+            "_id": "g7xAO0J8cFXGGLNK"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "rmx7@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "ijcUEWNlB7D0TK5n"
+        },
+        {
+            "nome": "Sylvie",
+            "email": "sherrill.prosacco@hotmail.com",
+            "password": "gk8fd05g1",
+            "administrador": "true",
+            "_id": "jRC1ni6Jf7s3vLxB"
+        },
+        {
+            "nome": "Vinicius Ferreira Leão",
+            "email": "v.leao@aluno.senai.br",
+            "password": "Vf852456159#13",
+            "administrador": "true",
+            "_id": "kHC3AeVzDTHgTcad"
+        },
+        {
+            "nome": "Eduarda Oliveira",
+            "email": "dudabern@gmail.com.br",
+            "password": "senai@26",
+            "administrador": "true",
+            "_id": "lH77u7AOhMZ7uWQh"
+        },
+        {
+            "nome": "usuario1787084266196",
+            "email": "usuario1787084266196@test.com",
+            "password": "Contraseña1787084266196",
+            "administrador": "true",
+            "_id": "lVLSq5kEXOTsxGfk"
+        },
+        {
+            "nome": "Neymar da Silva Santos Junior",
+            "email": "neymar2011@gmail.com.br",
+            "password": "mavie2025",
+            "administrador": "true",
+            "_id": "nOfqXlXxsJUBLSqb"
+        },
+        {
+            "nome": "Filho da fe",
+            "email": "filhodafe@sim.com",
+            "password": "Incorreta",
+            "administrador": "true",
+            "_id": "o2EtLPLxLn60c6Dm"
+        },
+        {
+            "nome": "nicls.lima",
+            "email": "joao.n.sale@aluno.senai.br",
+            "password": "251436m.",
+            "administrador": "true",
+            "_id": "rAEQWUyQUs6to3sc"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "luaemail@qa.com.br",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "tnI3iVNvB1390yGX"
+        },
+        {
+            "nome": "Karol",
+            "email": "karol.n@aluno.senai.br",
+            "password": "karol10",
+            "administrador": "true",
+            "_id": "xA5h3IGkU5Sod10r"
+        },
+        {
+            "nome": "ana",
+            "email": "ana.n@aluno.senai.br",
+            "password": "ana10",
+            "administrador": "true",
+            "_id": "y4m31FKgmiFRlxlc"
+        }
+    ]
+}
