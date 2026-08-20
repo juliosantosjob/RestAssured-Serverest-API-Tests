@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=66bfe56b0c81ff15c8a2e8cd3dea2d1f
+date=Thu, 20 Aug 2026 20:22:31 GMT
+server=Google Frontend
+Content-Length=170
+Body: {
+    "nome": "Cliente ServeRest",
+    "email": "cliente_1787255590587@qa.com",
+    "password": "Teste@123",
+    "administrador": "false",
+    "_id": "0WRyGdChO67dSr9K"
+}
