@@ -1,0 +1,144 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=d66606087ee5e4471805b3261d0f8165
+date=Fri, 21 Aug 2026 20:20:04 GMT
+server=Google Frontend
+Content-Length=4120
+Body: {
+    "quantidade": 18,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Fulano",
+            "email": "teste2@gmail.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "70x05TtVMddXb6OW"
+        },
+        {
+            "nome": "User sr-h5nd8zlc",
+            "email": "user-htth7ccl.1787341868224@example.com",
+            "password": "pw-usr-wgub5ab5gl",
+            "administrador": "false",
+            "_id": "DU1ZeSBIWgmqJrkW"
+        },
+        {
+            "nome": "User sr-yjv6mz9b",
+            "email": "user-3tn1lrlf.1787341866817@example.com",
+            "password": "pw-usr-mnnxoaji2f",
+            "administrador": "false",
+            "_id": "HAff1GIjAsjLBhFv"
+        },
+        {
+            "nome": "Gabriel Luna",
+            "email": "gabrie_luna_001_teste@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "PsKrqthiSr5VMeEa"
+        },
+        {
+            "nome": "Lucas Soares",
+            "email": "lucas.soares3@email.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "RtYzpUI2yeja45Be"
+        },
+        {
+            "nome": "Usuario Atividade04 Bruno Novo",
+            "email": "usuarioatividade04brunonovo2108@gmail.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "RzLbWKGqYakgvrSU"
+        },
+        {
+            "nome": "Admin sr-ho6yf73x",
+            "email": "user-5h3p52yg.1787341866817@example.com",
+            "password": "pw-adm-q8xq3kyekc",
+            "administrador": "true",
+            "_id": "YePKwCUK3tR6fiwP"
+        },
+        {
+            "nome": "Juan Moraes",
+            "email": "guerrabenicio@example.net",
+            "password": "uF2ozrlinS",
+            "administrador": "false",
+            "_id": "f5PRtAAin72PrKHX"
+        },
+        {
+            "nome": "Admin sr-cx9xbo8y",
+            "email": "user-0u075ehu.1787341866807@example.com",
+            "password": "pw-adm-juea3sfds4",
+            "administrador": "true",
+            "_id": "gLvm9q99FaWswAnt"
+        },
+        {
+            "nome": "Rapha Coelho ",
+            "email": "raphaqa2@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "gy79OoaaJ7NAUEIH"
+        },
+        {
+            "nome": "User sr-tteddxjn",
+            "email": "user-v1qkkvgl.1787341868457@example.com",
+            "password": "pw-usr-87f6nt2hb8",
+            "administrador": "false",
+            "_id": "jThAz8knefbSO4ID"
+        },
+        {
+            "nome": "Letícia Pacheco",
+            "email": "luara73@example.net",
+            "password": "yzsynqCyRE",
+            "administrador": "false",
+            "_id": "mDMH1oDOCAGUn3XU"
+        },
+        {
+            "nome": "Marcie",
+            "email": "shantelle.collins@hotmail.com",
+            "password": "5pxgzv6l93v5dr",
+            "administrador": "true",
+            "_id": "mocvAYNJGXlwhSt5"
+        },
+        {
+            "nome": "Fulano",
+            "email": "teste@gmail.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "nSxcbEvTqLQT5LU7"
+        },
+        {
+            "nome": "Ramon Veloso",
+            "email": "ramonsalao@otca.org",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "oQeUCkhIxDl8fIJb"
+        },
+        {
+            "nome": "Admin sr-pvnp3g5x",
+            "email": "user-56ajgvxb.1787341866807@example.com",
+            "password": "pw-adm-v5e6na5e2q",
+            "administrador": "true",
+            "_id": "rmAcIz5ROpQsXwMT"
+        },
+        {
+            "nome": "Diego Silveira",
+            "email": "kaiquecarvalho@example.com",
+            "password": "1o7N6MQ1D1",
+            "administrador": "false",
+            "_id": "xmjHD4v6UpvV8pDr"
+        }
+    ]
+}
