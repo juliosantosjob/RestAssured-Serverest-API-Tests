@@ -1,0 +1,16 @@
+Status Code: 400
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=ea5ad41e4a9f7b78883f45535e3d476c
+date=Mon, 24 Aug 2026 20:24:00 GMT
+server=Google Frontend
+Content-Length=67
+Body: {
+    "id": "id deve ter exatamente 16 caracteres alfanuméricos"
+}
