@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=42e9a4db5a46d517c28da82f3bd5ea07
+date=Tue, 25 Aug 2026 20:23:03 GMT
+server=Google Frontend
+Content-Length=161
+Body: {
+    "email": "elissa.grimes@yahoo.com",
+    "password": "teste",
+    "nome": "Garland McLaughlin",
+    "administrador": "true",
+    "_id": "0JoE4OHpXeEXZwuS"
+}
