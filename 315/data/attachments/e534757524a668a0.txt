@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=f1a894d106800890e8f3cb35ff52ed42
+date=Fri, 28 Aug 2026 21:40:35 GMT
+server=Google Frontend
+Content-Length=144
+Body: {
+    "nome": "Kale",
+    "email": "Myrl74@gmail.com",
+    "password": "teste1234",
+    "administrador": "true",
+    "_id": "08VrEorGa8Y6raAB"
+}
