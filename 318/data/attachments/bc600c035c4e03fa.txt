@@ -1,0 +1,116 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=ff16733b104982e00497c7f8847153ee
+date=Tue, 01 Sep 2026 15:58:13 GMT
+server=Google Frontend
+Content-Length=3176
+Body: {
+    "quantidade": 14,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Bert",
+            "email": "fleta.rempel@hotmail.com",
+            "password": "3yfgn4b08x",
+            "administrador": "true",
+            "_id": "29wEH54DP96Ebeox"
+        },
+        {
+            "nome": "Обновлённый Покупатель",
+            "email": "spy_1788275829192@qa.com",
+            "password": "secret123",
+            "administrador": "false",
+            "_id": "2xtSd5oCEkiMyQQT"
+        },
+        {
+            "nome": "Christy McLaughlin",
+            "email": "christymclaughlin@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "6tj3N8iW4O0frSju"
+        },
+        {
+            "nome": "Jerald Crist",
+            "email": "jeraldcrist@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "Dd5lQokO1Jt3C4ky"
+        },
+        {
+            "nome": "Roberta Bahringer",
+            "email": "robertabahringer@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "KxhXSenW2vGdBw2I"
+        },
+        {
+            "nome": "Тайный покупатель",
+            "email": "spy_1788278183225@qa.com",
+            "password": "secret123",
+            "administrador": "true",
+            "_id": "UtMz1KfnP8nIOu62"
+        },
+        {
+            "nome": "Lawson76",
+            "email": "Vladimir_Krajcik@hotmail.com",
+            "password": "125650636",
+            "administrador": "true",
+            "_id": "V94mUaizTlwugruM"
+        },
+        {
+            "nome": "João Silva Teste 1",
+            "email": "joao.teste.1@example.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "YplKTBC9IBdkeDlq"
+        },
+        {
+            "nome": "Обновлённый Покупатель",
+            "email": "spy_1788275760988@qa.com",
+            "password": "secret123",
+            "administrador": "false",
+            "_id": "b8nptudKvpPKhVRR"
+        },
+        {
+            "nome": "Dominic Wilkinson",
+            "email": "derrickcrona@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "c9dEamX2qMcd8Hj4"
+        },
+        {
+            "nome": "Cecilia Auer I",
+            "email": "ceciliaaueri@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "gApLlN1K2ZgpUwVc"
+        },
+        {
+            "nome": "Rodolfo Doyle",
+            "email": "rodolfodoyle@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "qGgvpoiodk5y3DoC"
+        },
+        {
+            "nome": "Lucia O'Reilly",
+            "email": "luciao'reilly@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "xR4ufm0IkCgObvTy"
+        }
+    ]
+}
