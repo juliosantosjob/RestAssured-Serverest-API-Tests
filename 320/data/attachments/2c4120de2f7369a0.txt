@@ -1,0 +1,16 @@
+Status Code: 400
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=b158e1658f4127a27c32a7cdc1a1643e
+date=Wed, 02 Sep 2026 15:51:17 GMT
+server=Google Frontend
+Content-Length=44
+Body: {
+    "email": "email deve ser uma string"
+}
