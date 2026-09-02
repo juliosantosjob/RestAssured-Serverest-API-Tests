@@ -1,0 +1,88 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=47c8b543ac2ff1c4fd66a70fc14529a4
+date=Wed, 02 Sep 2026 22:17:44 GMT
+server=Google Frontend
+Content-Length=2280
+Body: {
+    "quantidade": 10,
+    "usuarios": [
+        {
+            "nome": "Fulanoaaaaaa da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Usuario Original",
+            "email": "usuario.duplicado.1788387316@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "UAGHv7IhMznY3D6S"
+        },
+        {
+            "nome": "Usuario Login",
+            "email": "usuario.login.1788387385@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ZaPEipszHgWVkwmz"
+        },
+        {
+            "nome": "Lorenzo da Silva",
+            "email": "lorenzo@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "aRjzyBxOzG6XAKJU"
+        },
+        {
+            "nome": "Usuario Teste",
+            "email": "fulano@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "bUyJhAUQmM5mknwN"
+        },
+        {
+            "nome": "Roxanne",
+            "email": "roderick.leannon@yahoo.com",
+            "password": "t642oj5lr92",
+            "administrador": "true",
+            "_id": "jek0qoULEIBgUkCd"
+        },
+        {
+            "nome": "Usuario Duplicado",
+            "email": "usuario.duplicado.1788386528@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "nI7PABtCEXHGSvay"
+        },
+        {
+            "nome": "Usuario Original",
+            "email": "usuario.duplicado.1788387386@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "nIDApJMd4QweAwR1"
+        },
+        {
+            "nome": "Usuario Original",
+            "email": "usuario.duplicado.trillia@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ryhtB3Z56vk0dGYq"
+        },
+        {
+            "nome": "Usuario Login",
+            "email": "usuario.login.trillia@gmail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "tT1XjvIuwkNkiF8N"
+        }
+    ]
+}
