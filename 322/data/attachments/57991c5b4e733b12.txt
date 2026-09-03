@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=c4946f463cd357b592ef9b3b99842cc4
+date=Thu, 03 Sep 2026 15:40:28 GMT
+server=Google Frontend
+Content-Length=158
+Body: {
+    "nome": "Shawna Dibbert",
+    "email": "Howell.Torp@gmail.com",
+    "password": "48HX3OdW",
+    "administrador": "true",
+    "_id": "094yMzg03bWawRJd"
+}
