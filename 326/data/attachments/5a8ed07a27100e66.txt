@@ -1,0 +1,718 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=b4f500a0e19c5da972d9de201da21d1d
+date=Mon, 07 Sep 2026 17:06:14 GMT
+server=Google Frontend
+Content-Length=23447
+Body: {
+    "quantidade": 100,
+    "usuarios": [
+        {
+            "nome": "Maria Teste",
+            "email": "maria.testess.8767661@exemplo.com",
+            "password": "teste1234",
+            "administrador": "true",
+            "_id": "0Bl5WhBYG7RNJUOQ"
+        },
+        {
+            "nome": "Lucile Goodwin",
+            "email": "qa.1788799931081.i2spkp@outsera-test.com",
+            "password": "Nv85WJ0Szhy4",
+            "administrador": "true",
+            "_id": "0I3zryMK6vkEphcT"
+        },
+        {
+            "nome": "Cart User 1788796774752",
+            "email": "cart.user.1788796774752@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "0XT83OHER3yuNiH1"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Lino17887992929952499",
+            "email": "lino17887992929952499@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "1AZjjwX89UE7Aczj"
+        },
+        {
+            "nome": "Segundo QA",
+            "email": "segundo.031de4ae-ca4f-400a-9498-ba64aa62e972@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "1SLfKUHjNapAOQ5a"
+        },
+        {
+            "nome": "Lonnie Ward",
+            "email": "lonnieward@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "2pcOckSKK2pWPxR3"
+        },
+        {
+            "nome": "Cart User 1788797236854",
+            "email": "cart.user.1788797236854@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "2t1ze1JIzvHPNbsQ"
+        },
+        {
+            "nome": "Authenticated User 1788794930492",
+            "email": "authenticated.user.1788794930492@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "3FqPpniiZOWsSauU"
+        },
+        {
+            "nome": "Authenticated User 1788800170077",
+            "email": "authenticated.user.1788800170077@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "5AuaPAOCZ13ATrm5"
+        },
+        {
+            "nome": "Lino178880013090240821",
+            "email": "lino178880013090240821@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "5DGkSCbM4pXzaSVY"
+        },
+        {
+            "nome": "Authenticated User 1788800171805",
+            "email": "authenticated.user.1788800171805@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "5HslzxYH1DiX7ZHW"
+        },
+        {
+            "nome": "Glenda Kilback",
+            "email": "glendakilback@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "5N2ZciLjvBD8XDES"
+        },
+        {
+            "nome": "Lino178880018783938830",
+            "email": "lino178880018783938830@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "60rWsnFUA6PcUnc9"
+        },
+        {
+            "nome": "Lino178879991954064706",
+            "email": "lino178879991954064706@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "78yjduULjST8QMBj"
+        },
+        {
+            "nome": "Cart User 1788796873511",
+            "email": "cart.user.1788796873511@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "8QV4cgyNFPwu3IMt"
+        },
+        {
+            "nome": "Cart User 1788800675103",
+            "email": "cart.user.1788800675103@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "8SFVSgLgkjMh8GSF"
+        },
+        {
+            "nome": "Cart User 1788800156973",
+            "email": "cart.user.1788800156973@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "8U1bAKx6i0VfQtpe"
+        },
+        {
+            "nome": "Lino178879877921642013",
+            "email": "lino178879877921642013@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "8qiKLPTaatEjBYxo"
+        },
+        {
+            "nome": "Cathy Huels",
+            "email": "cathyhuels@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "8sKvGps33HGxGHfs"
+        },
+        {
+            "nome": "Lino178879943251381641",
+            "email": "lino178879943251381641@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "9JJ2rP7swr95CLGw"
+        },
+        {
+            "nome": "João Silva",
+            "email": "joao.silvaa55@exemplo.com",
+            "password": "teste1234",
+            "administrador": "true",
+            "_id": "B19lSGgsUzn5EOCg"
+        },
+        {
+            "nome": "Paige.Spinka",
+            "email": "Breanne.Beahan45@yahoo.com",
+            "password": "401299613",
+            "administrador": "true",
+            "_id": "B9Tq2jIg3R77DAdN"
+        },
+        {
+            "nome": "Usuario Comum",
+            "email": "usuario.comum@teste.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "CZNsHboNZpWTtS3a"
+        },
+        {
+            "nome": "Lorenz Klocko",
+            "email": "qa.1788799931470.jmnw7x@outsera-test.com",
+            "password": "fPKkeJJw14vG",
+            "administrador": "true",
+            "_id": "DoE58df4kQPmplbY"
+        },
+        {
+            "nome": "Audreanne Hagenes",
+            "email": "qa.1788799846939.o2y1rc@outsera-test.com",
+            "password": "rV17VlBV8Lni",
+            "administrador": "true",
+            "_id": "Du9PR3BJdAPUkivm"
+        },
+        {
+            "nome": "Authenticated User 1788800170843",
+            "email": "authenticated.user.1788800170843@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "DzHQDtoZWIDJdxAZ"
+        },
+        {
+            "nome": "Lino178879991565347892",
+            "email": "lino178879991565347892@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "FTAUrfdqXOryDRwH"
+        },
+        {
+            "nome": "Lino178879943221988222",
+            "email": "lino178879943221988222@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "FcgMq5WIAQNzrcc4"
+        },
+        {
+            "nome": "Segundo QA",
+            "email": "segundo.ed274f9d-0fd1-406a-ab8e-88ff22439a4f@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "G0B3zajCG100hxUi"
+        },
+        {
+            "nome": "Lino178880009302449950",
+            "email": "lino178880009302449950@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "I0Crfj7pPbaJ9oc1"
+        },
+        {
+            "nome": "Lino178880018760391139",
+            "email": "lino178880018760391139@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "J8tdIBeW19kBhcC6"
+        },
+        {
+            "nome": "Cart User 1788800158397",
+            "email": "cart.user.1788800158397@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "JGMj2JwdmdgjUzbd"
+        },
+        {
+            "nome": "Authenticated User 1788797871415",
+            "email": "authenticated.user.1788797871415@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "Kb8wSOK6NsuDC5yy"
+        },
+        {
+            "nome": "Cart User 1788800179351",
+            "email": "cart.user.1788800179351@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "KsbzPWAdl6UXjrbE"
+        },
+        {
+            "nome": "Cart User 1788794240795",
+            "email": "cart.user.1788794240795@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "LYHlqsetN9NpEPdU"
+        },
+        {
+            "nome": "Nona Terry",
+            "email": "qa.1788799916282.qk9lrt@outsera-test.com",
+            "password": "IS4yJ5xS4sNq",
+            "administrador": "true",
+            "_id": "LqDTJF6AmZLFt7XV"
+        },
+        {
+            "nome": "Sophia Koch",
+            "email": "kimbogan@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "MIRRToyXiJiRRS42"
+        },
+        {
+            "nome": "Authenticated User 1788794925477",
+            "email": "authenticated.user.1788794925477@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "NA07qHyKG4tN42iV"
+        },
+        {
+            "nome": "Cart User 1788800161925",
+            "email": "cart.user.1788800161925@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "OqrWF7HCAeAQAwgO"
+        },
+        {
+            "nome": "Drew Grant",
+            "email": "drewgrant@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "P3opEt6LCxm4niUn"
+        },
+        {
+            "nome": "Lino178880001684950451",
+            "email": "lino178880001684950451@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "QBsGHJ1t2lvKYTA9"
+        },
+        {
+            "nome": "Lino178880018802984017",
+            "email": "lino178880018802984017@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "QGstxaRvPandXNMQ"
+        },
+        {
+            "nome": "Lino178879877555497774",
+            "email": "lino178879877555497774@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "SNhMXlrplEP3ipSh"
+        },
+        {
+            "nome": "Lino178880009332493081",
+            "email": "lino178880009332493081@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "TFskDp14EdkEbNzR"
+        },
+        {
+            "nome": "Segundo QA",
+            "email": "segundo.20ab4f7e-7725-4f7f-8ba2-b67d987d3088@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "TO30aLY3i223XrSl"
+        },
+        {
+            "nome": "João Silva",
+            "email": "testescomum@testes.com",
+            "password": "teste1234",
+            "administrador": "false",
+            "_id": "TrwEDFksJMAv6xDR"
+        },
+        {
+            "nome": "Lino178880013041240300",
+            "email": "lino178880013041240300@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "UTVCezx2cyXzZ1q7"
+        },
+        {
+            "nome": "Cart User 1788797243097",
+            "email": "cart.user.1788797243097@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "UwfsaCg82ncRGKJA"
+        },
+        {
+            "nome": "Gwendolyn Spinka",
+            "email": "qa.1788799844502.ubpexc@outsera-test.com",
+            "password": "kQEsHeivpCrU",
+            "administrador": "true",
+            "_id": "V0CQXhQP60oiYxf1"
+        },
+        {
+            "nome": "Lino178879991523196787",
+            "email": "lino178879991523196787@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "VGuBDCWgV9MXVZEC"
+        },
+        {
+            "nome": "Lino178880009272114029",
+            "email": "lino178880009272114029@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "Vawq1xhQYbrnRiGL"
+        },
+        {
+            "nome": "Lino178879942765887241",
+            "email": "lino178879942765887241@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "W3Uyt6WE6skhOaWz"
+        },
+        {
+            "nome": "Orpha Okuneva",
+            "email": "qa.1788799916664.2wmgrd@outsera-test.com",
+            "password": "k5nB2_edwXVg",
+            "administrador": "true",
+            "_id": "WckEXSo4r2t8iNN1"
+        },
+        {
+            "nome": "Authenticated User 1788796276542",
+            "email": "authenticated.user.1788796276542@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "X1zq202ZDaHxo3k1"
+        },
+        {
+            "nome": "Lino178880001704092393",
+            "email": "lino178880001704092393@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "YpBmUTumQ6Z2FDYK"
+        },
+        {
+            "nome": "Cart User 1788800359773",
+            "email": "cart.user.1788800359773@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "YvYuuONqar9oduYg"
+        },
+        {
+            "nome": "Cart User 1788797877368",
+            "email": "cart.user.1788797877368@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "ZC0b4WaFzTe5JhZP"
+        },
+        {
+            "nome": "Lino178879942786457711",
+            "email": "lino178879942786457711@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "ZjScyYPZlBh8MT9v"
+        },
+        {
+            "nome": "Lino178880013529180262",
+            "email": "lino178880013529180262@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "ZonHZOFOk1zOE2Ta"
+        },
+        {
+            "nome": "Quinton Vandervort",
+            "email": "qa.1788799932905.jvspwr@outsera-test.com",
+            "password": "bYDU2uFNJYc_",
+            "administrador": "true",
+            "_id": "Zu65BBkZHacFnFlv"
+        },
+        {
+            "nome": "Cart User 1788800166359",
+            "email": "cart.user.1788800166359@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "ZxEzJ00klxLOgyNk"
+        },
+        {
+            "nome": "Becky Gleason",
+            "email": "qa.1788799932002.en0iyw@outsera-test.com",
+            "password": "N6Leacy_jfVz",
+            "administrador": "true",
+            "_id": "bB5VJ60F6uo6bYg5"
+        },
+        {
+            "nome": "Segundo QA",
+            "email": "segundo.52aaea22-15d6-47a4-a154-0832345ad5e2@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "bRRqbydumsFaH5XG"
+        },
+        {
+            "nome": "Lino17887999158544239",
+            "email": "lino17887999158544239@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "dCXhHfGtzKcSScl7"
+        },
+        {
+            "nome": "Adeline Schamberger",
+            "email": "qa.1788799843965.cdwqmd@outsera-test.com",
+            "password": "Ujj0DRwwdwzr",
+            "administrador": "true",
+            "_id": "diRMK410koSnB2PG"
+        },
+        {
+            "nome": "Lino178879862735386533",
+            "email": "lino178879862735386533@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "eeGp01q8cTfYmjKB"
+        },
+        {
+            "nome": "Cart User 1788800178569",
+            "email": "cart.user.1788800178569@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "fkgMp9Jk9GUMeDCz"
+        },
+        {
+            "nome": "Lino178880014505032853",
+            "email": "lino178880014505032853@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "gkScCoQCRqFcJxs1"
+        },
+        {
+            "nome": "Lino178880001631293896",
+            "email": "lino178880001631293896@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "hQFWLRHNMvzDSrqi"
+        },
+        {
+            "nome": "Segundo QA",
+            "email": "segundo.2b7dad70-f314-4679-932f-15e280419b04@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "hVHEhqPG3Pjt5vxZ"
+        },
+        {
+            "nome": "Scottie Brekke",
+            "email": "qa.1788799917895.bnf0cw@outsera-test.com",
+            "password": "5F1neSNrEVj5",
+            "administrador": "true",
+            "_id": "kJ2AQ3CW3WadWWbJ"
+        },
+        {
+            "nome": "Janet Torp",
+            "email": "janettorp@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "kUYF9jRHQ2sV26Tm"
+        },
+        {
+            "nome": "Cart User 1788800161171",
+            "email": "cart.user.1788800161171@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "lJpo2MjUcFTH7Jh9"
+        },
+        {
+            "nome": "Lino178880013483685927",
+            "email": "lino178880013483685927@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "m0QlMW23pL3lrlRd"
+        },
+        {
+            "nome": "Lino178879785276128965",
+            "email": "lino178879785276128965@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "mvRxjTLHe106oFwC"
+        },
+        {
+            "nome": "Segundo QA",
+            "email": "segundo.7aa917cf-52c0-491b-b1b7-04eb7fce08a2@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ofDAnwRsojM53EtW"
+        },
+        {
+            "nome": "Cart User 1788800177465",
+            "email": "cart.user.1788800177465@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "oxXBVLREOPVN9S7g"
+        },
+        {
+            "nome": "Cart User 1788796960628",
+            "email": "cart.user.1788796960628@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "q4YDv4yO5Fxs7JYa"
+        },
+        {
+            "nome": "Lino178879877950083862",
+            "email": "lino178879877950083862@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "rA8bQ5vu64srbCR1"
+        },
+        {
+            "nome": "Lino178879877534323351",
+            "email": "lino178879877534323351@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "rTakzcw9CXxdUF62"
+        },
+        {
+            "nome": "Segundo QA",
+            "email": "segundo.8881ee55-5647-4d7d-962c-18b05b54201d@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "s52NDOgXDrhvtqYi"
+        },
+        {
+            "nome": "Lino178879991931989396",
+            "email": "lino178879991931989396@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "sh4nvmlzr0xwtJoj"
+        },
+        {
+            "nome": "Admin QA Novo",
+            "email": "admin.novo@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "t0FGq7gNc1glpcu3"
+        },
+        {
+            "nome": "Segundo QA",
+            "email": "segundo.0a373d80-fc55-4b59-93b2-297ce6f8e31f@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "t3Qix9YDyajHoQ7A"
+        },
+        {
+            "nome": "Lino178879991912153650",
+            "email": "lino178879991912153650@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "tFpKn3RKshiwmXnf"
+        },
+        {
+            "nome": "Cart User 1788800157645",
+            "email": "cart.user.1788800157645@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "tXYTrbkMJiKaYpxT"
+        },
+        {
+            "nome": "Genie",
+            "email": "porsche.aufderhar@gmail.com",
+            "password": "wmezvica",
+            "administrador": "true",
+            "_id": "toPNgEkmcu0g9BL3"
+        },
+        {
+            "nome": "Lino178879929660282213",
+            "email": "lino178879929660282213@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "u0FjFtKu4mseuUQ8"
+        },
+        {
+            "nome": "Segundo QA",
+            "email": "segundo.5952aa27-9ba7-42a7-9a80-b0b3e9a30a17@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "vBVJFbDKAaLKdfdP"
+        },
+        {
+            "nome": "Cart User 1788800162571",
+            "email": "cart.user.1788800162571@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "w52pOrVnxbIvq5nP"
+        },
+        {
+            "nome": "Eurico Santiago",
+            "email": "san14311982@gmail.com",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "w8rCicrFgRZ9dDLy"
+        },
+        {
+            "nome": "Lino178879929635146002",
+            "email": "lino178879929635146002@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "wlfFGzOJEHhVCrMa"
+        },
+        {
+            "nome": "Otis Pfannerstill",
+            "email": "qa.1788799917195.hsbra3@outsera-test.com",
+            "password": "vz1rW7ZpVdYz",
+            "administrador": "true",
+            "_id": "x7xxZbORL5zlTKDy"
+        },
+        {
+            "nome": "Lino178879862708917390",
+            "email": "lino178879862708917390@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "xvKGkewbGT7zyhmg"
+        },
+        {
+            "nome": "Krista Jacobson",
+            "email": "kristajacobson@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "yUEXvjajEXGUolcn"
+        },
+        {
+            "nome": "Lino178879929265742150",
+            "email": "lino178879929265742150@test.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "z5QdrxmklBtHDfET"
+        },
+        {
+            "nome": "Tyrell Strosin",
+            "email": "qa.1788799843292.eqv2lj@outsera-test.com",
+            "password": "MAQo6Hu3R9W5",
+            "administrador": "true",
+            "_id": "zXFs9bxguY2Zutce"
+        },
+        {
+            "nome": "Cart User 1788800165516",
+            "email": "cart.user.1788800165516@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "zhMnOKg2H6g9Cae4"
+        },
+        {
+            "nome": "Cart User 1788800167003",
+            "email": "cart.user.1788800167003@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "zlar5Bm8EGCqs3rh"
+        }
+    ]
+}

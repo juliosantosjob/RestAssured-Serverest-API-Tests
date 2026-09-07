@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=d2c26e0a020d63c58bb259cd80856f3b
+date=Mon, 07 Sep 2026 17:06:14 GMT
+server=Google Frontend
+Content-Length=168
+Body: {
+    "nome": "Maria Teste",
+    "email": "maria.testess.8767661@exemplo.com",
+    "password": "teste1234",
+    "administrador": "true",
+    "_id": "0Bl5WhBYG7RNJUOQ"
+}
