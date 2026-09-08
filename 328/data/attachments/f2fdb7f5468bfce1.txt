@@ -1,0 +1,319 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=48764d960f9885416e0e8093be7762d9
+date=Tue, 08 Sep 2026 15:53:29 GMT
+server=Google Frontend
+Content-Length=9940
+Body: {
+    "quantidade": 43,
+    "usuarios": [
+        {
+            "nome": "Allan Fay",
+            "email": "allanfay@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "3J56LFHUCkxVr4D2"
+        },
+        {
+            "nome": "Authenticated User 1788873089950",
+            "email": "authenticated.user.1788873089950@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "3MVA58GvVCnIHkkT"
+        },
+        {
+            "nome": "userName",
+            "email": "pistina.lomackiy@example.com",
+            "password": "hurley",
+            "administrador": "false",
+            "_id": "8eZpzcRCfIhhvylx"
+        },
+        {
+            "nome": "Cart User 1788872460150",
+            "email": "cart.user.1788872460150@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "BUgefyT92qZF6h98"
+        },
+        {
+            "nome": "Wendy Larkin",
+            "email": "Vesta_Pfeffer49@yahoo.com",
+            "password": "VMbWd7cM",
+            "administrador": "true",
+            "_id": "Bic9sCTZyGTU5mWK"
+        },
+        {
+            "nome": "Cart User 1788870278702",
+            "email": "cart.user.1788870278702@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "DUgP6ONUphoE4ims"
+        },
+        {
+            "nome": "Authenticated User 1788872455720",
+            "email": "authenticated.user.1788872455720@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "EkkUvEoCcVVfC5MI"
+        },
+        {
+            "nome": "Ross Block",
+            "email": "rossblock@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "HQFkI8IMu9eeB0U5"
+        },
+        {
+            "nome": "Jonas QA",
+            "email": "teste.qa.serverest@serverest.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "Jju1Ch40aOiMHy2G"
+        },
+        {
+            "nome": "Authenticated User 1788873992846",
+            "email": "authenticated.user.1788873992846@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "KJfhAwaNyRDcPOGx"
+        },
+        {
+            "nome": "Cart User 1788873893417",
+            "email": "cart.user.1788873893417@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "KWuguNwJLEyB7UFg"
+        },
+        {
+            "nome": "Authenticated User 1788868221843",
+            "email": "authenticated.user.1788868221843@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "Kss55X34SJatGP5U"
+        },
+        {
+            "nome": "Cart User 1788873636451",
+            "email": "cart.user.1788873636451@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "MatulYOQ6rfzqwRW"
+        },
+        {
+            "nome": "Cart User 1788871385054",
+            "email": "cart.user.1788871385054@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "MmaXZD53an5sswj4"
+        },
+        {
+            "nome": "Cart User 1788873997248",
+            "email": "cart.user.1788873997248@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "QIkSA4v8tJx4ChT2"
+        },
+        {
+            "nome": "Cart User 1788873880861",
+            "email": "cart.user.1788873880861@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "QPF3MEy2el4pnd2p"
+        },
+        {
+            "nome": "Cart User 1788873094492",
+            "email": "cart.user.1788873094492@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "QPRlOZCOkqpF2XWk"
+        },
+        {
+            "nome": "Authenticated User 1788871380864",
+            "email": "authenticated.user.1788871380864@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "QdiJk4ewqpofa9F0"
+        },
+        {
+            "nome": "vander",
+            "email": "email8@email.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "Qln0yY2OvJFtoRt5"
+        },
+        {
+            "nome": "Esther Cavalcanti",
+            "email": "sara.ornelas@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "SrkfepyIFVse7WWJ"
+        },
+        {
+            "nome": "Elias Heaney",
+            "email": "clintstroman@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "UD4y4KsdORldTnsr"
+        },
+        {
+            "nome": "vander",
+            "email": "email2@email.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "W4jrq252IHmQwjSx"
+        },
+        {
+            "nome": "Jonas QA",
+            "email": "teste.qa@serverest.com",
+            "password": "1234",
+            "administrador": "false",
+            "_id": "YIYMw98Oy10rvn5u"
+        },
+        {
+            "nome": "Randall.Daniel10",
+            "email": "Noemi62@gmail.com",
+            "password": "917839065",
+            "administrador": "true",
+            "_id": "YMYX734bo26pCSFx"
+        },
+        {
+            "nome": "Antonio Stark",
+            "email": "antoniostark@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "ZuA2nxvB952EhtmD"
+        },
+        {
+            "nome": "Nery",
+            "email": "tanja.hegmann@gmail.com",
+            "password": "yacjlsxiwj0",
+            "administrador": "true",
+            "_id": "edGdOdRAyS1ELRPG"
+        },
+        {
+            "nome": "Authenticated User 1788873631849",
+            "email": "authenticated.user.1788873631849@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "ezhZlf4lsfwurP5I"
+        },
+        {
+            "nome": "vander",
+            "email": "email4@email.com",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "gN4dHcHmobik7eE2"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "gd53kE89sD0DkRpP"
+        },
+        {
+            "nome": "Kathleen Pfannerstill",
+            "email": "Enoch70@gmail.com",
+            "password": "ji1_36zi",
+            "administrador": "true",
+            "_id": "iYzlcSpC2MPTSXVK"
+        },
+        {
+            "nome": "Authenticated User 1788872855439",
+            "email": "authenticated.user.1788872855439@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "ia6tCCuHjXN44gEf"
+        },
+        {
+            "nome": "Patsy Simonis",
+            "email": "patsysimonis@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "j8POclhxbb50G9Tu"
+        },
+        {
+            "nome": "Caroline",
+            "email": "caroline.dyrstad@example.com",
+            "password": "chillin",
+            "administrador": "false",
+            "_id": "keSmhWfJMFSpWHg1"
+        },
+        {
+            "nome": "Dwight Leannon",
+            "email": "dwightleannon@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "ksqX1ZtVhdB6aaoO"
+        },
+        {
+            "nome": "Cart User 1788872861038",
+            "email": "cart.user.1788872861038@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "mB2243AxLFWrhABk"
+        },
+        {
+            "nome": "Cart User 1788868227244",
+            "email": "cart.user.1788868227244@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "nfTFFUN22AtUzkan"
+        },
+        {
+            "nome": "Authenticated User 1788873672736",
+            "email": "authenticated.user.1788873672736@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "nuf4OS7x8s0hu0PQ"
+        },
+        {
+            "nome": "Cart User 1788873677003",
+            "email": "cart.user.1788873677003@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "qtxQ4LimW2q7fIQk"
+        },
+        {
+            "nome": "Usuário Comum da Loja",
+            "email": "comprador_1788877366071@loja.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "shXx73Gce21smg2j"
+        },
+        {
+            "nome": "Authenticated User 1788870274445",
+            "email": "authenticated.user.1788870274445@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "spDhMencbHfYWjrT"
+        },
+        {
+            "nome": "Authenticated User 1788873876566",
+            "email": "authenticated.user.1788873876566@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "vTmDG1zjUI1KNVDd"
+        },
+        {
+            "nome": "Authenticated User 1788873888806",
+            "email": "authenticated.user.1788873888806@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "yWYksYpm7yDSHlJf"
+        },
+        {
+            "nome": "Wm Labadie",
+            "email": "wmlabadie@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "zlDylKIvqUCjxVEc"
+        }
+    ]
+}
