@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=e9e5c06339ff3e5fec1d33caf9682245
+date=Tue, 08 Sep 2026 22:19:00 GMT
+server=Google Frontend
+Content-Length=156
+Body: {
+    "nome": "Katie O'Kon",
+    "email": "Alvera_Zieme@gmail.com",
+    "password": "abnzXN2d",
+    "administrador": "true",
+    "_id": "311yRPfHN8ra9aFG"
+}
