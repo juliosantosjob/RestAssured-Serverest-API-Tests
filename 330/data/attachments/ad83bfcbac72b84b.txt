@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=b84b495c71e6682b7510c8527c8bd591
+date=Wed, 09 Sep 2026 15:48:33 GMT
+server=Google Frontend
+Content-Length=148
+Body: {
+    "nome": "Fulano da Silva",
+    "email": "fulano@qa.com",
+    "password": "teste",
+    "administrador": "true",
+    "_id": "0uxuPY0cbmQhpEz1"
+}
