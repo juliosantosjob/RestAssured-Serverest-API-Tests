@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=4b1a41d693009a7be6b16bc1feef259e
+date=Thu, 10 Sep 2026 22:13:27 GMT
+server=Google Frontend
+Content-Length=162
+Body: {
+    "nome": "Melody West",
+    "email": "melody_west@gmail.com",
+    "password": "hGkpaJ7tlsrf_pe",
+    "administrador": "true",
+    "_id": "0c2pqn9aZJugUdrY"
+}
