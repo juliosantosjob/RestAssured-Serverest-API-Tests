@@ -1,0 +1,200 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=092c4e2a8c718b640fb894869daec324
+date=Fri, 11 Sep 2026 22:10:27 GMT
+server=Google Frontend
+Content-Length=6178
+Body: {
+    "quantidade": 26,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Manager ref5c7ac620dd",
+            "email": "manager.ref5c7ac620dd@qa-ref5c7ac620dd.dev",
+            "password": "manage9",
+            "administrador": "true",
+            "_id": "2SvcS2jSbPDKXhbz"
+        },
+        {
+            "nome": "QA Admin REF23257",
+            "email": "qaf5_admin_REF23257@demo-task.io",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "9Lk1ObDeK5Bt2QQX"
+        },
+        {
+            "nome": "manager Team",
+            "email": "worker.gamma.vrhwtxwvhpx@qa-vrhwtxwvhpx.dev",
+            "password": "pwvrhwtxwvhpxd",
+            "administrador": "false",
+            "_id": "9y5KZTj82676LpAv"
+        },
+        {
+            "nome": "Usuário Teles",
+            "email": "user3.reff17d97aa25@qa-reff17d97aa25.dev",
+            "password": "senha-3-reff17d97aa25",
+            "administrador": "false",
+            "_id": "AbPG8rBumEc5RczK"
+        },
+        {
+            "nome": "Mgr pp4e297d",
+            "email": "mgr.pp4e297d@qa-pp4e297d.dev",
+            "password": "manage9",
+            "administrador": "true",
+            "_id": "JOmSj7mByGSuaKNS"
+        },
+        {
+            "nome": "QA Op REF1789159311",
+            "email": "qaf5_op_REF1789159311@demo-task.io",
+            "password": "Senha@456",
+            "administrador": "true",
+            "_id": "JgxvzMRuRnWaMcpV"
+        },
+        {
+            "nome": "Qa Peixoto",
+            "email": "user1.reff17d97aa25@qa-reff17d97aa25.dev",
+            "password": "senha-1-reff17d97aa25",
+            "administrador": "false",
+            "_id": "JncmvAAqfYBCzU69"
+        },
+        {
+            "nome": "Rosemarie Berge",
+            "email": "Adelle.Terry@hotmail.com",
+            "password": "8LH4HmBs",
+            "administrador": "true",
+            "_id": "N7KoqwhAa439U2dL"
+        },
+        {
+            "nome": "Tara Kub",
+            "email": "Easter24@hotmail.com",
+            "password": "ECoqk_0L",
+            "administrador": "true",
+            "_id": "SqndgyzehE8isopE"
+        },
+        {
+            "nome": "usuário Team",
+            "email": "manager.vrhwtxwvhpx@qa-vrhwtxwvhpx.dev",
+            "password": "pwvrhwtxwvhpxa",
+            "administrador": "true",
+            "_id": "YXicOBjSkNYh6WH8"
+        },
+        {
+            "nome": "usuário Team",
+            "email": "worker.alpha.vrhwtxwvhpx@qa-vrhwtxwvhpx.dev",
+            "password": "pwvrhwtxwvhpxb",
+            "administrador": "false",
+            "_id": "ZbRMKi2iC77GJdzv"
+        },
+        {
+            "nome": "Deborah Durgan Sr.",
+            "email": "Robin92@hotmail.com",
+            "password": "sHYTWNwc",
+            "administrador": "true",
+            "_id": "aR8mLxRw6WDJDDMO"
+        },
+        {
+            "nome": "Ellen",
+            "email": "lewis.becker@yahoo.com",
+            "password": "9u18t6jaxwqd8x",
+            "administrador": "true",
+            "_id": "aSZcx8vULbi1IDYx"
+        },
+        {
+            "nome": "Amelia Ramos",
+            "email": "user2.reff17d97aa25@qa-reff17d97aa25.dev",
+            "password": "senha-2-reff17d97aa25",
+            "administrador": "false",
+            "_id": "cHPsXPMd1to2t1t5"
+        },
+        {
+            "nome": "Manager ref72eea825ed",
+            "email": "manager.ref72eea825ed@qa-ref72eea825ed.dev",
+            "password": "manage9",
+            "administrador": "true",
+            "_id": "fgixZUYhzpOiwPS2"
+        },
+        {
+            "nome": "qa Team",
+            "email": "worker.delta.vrhwtxwvhpx@qa-vrhwtxwvhpx.dev",
+            "password": "pwvrhwtxwvhpxe",
+            "administrador": "false",
+            "_id": "gEKyDhjGK78R4G8A"
+        },
+        {
+            "nome": "Usuário Chefe",
+            "email": "manager.ref2ad257ed23@qa-ref2ad257ed23.dev",
+            "password": "chave-mgr-ref2ad257ed23",
+            "administrador": "true",
+            "_id": "ioUkBL57UeKpvXJN"
+        },
+        {
+            "nome": "qa_operator REF1789160240",
+            "email": "qaf5_op_REF1789160240@demo-task.io",
+            "password": "Senha@F5qa26",
+            "administrador": "true",
+            "_id": "k5WTst262uONHRdP"
+        },
+        {
+            "nome": "Usuário Chefe",
+            "email": "manager.reff17d97aa25@qa-reff17d97aa25.dev",
+            "password": "chave-mgr-reff17d97aa25",
+            "administrador": "true",
+            "_id": "lQepsHvreHT7xQx6"
+        },
+        {
+            "nome": "Courtney Satterfield",
+            "email": "Lucio.Schuppe67@yahoo.com",
+            "password": "OKX8YZxu",
+            "administrador": "true",
+            "_id": "nB0mL6b0oneFSOpS"
+        },
+        {
+            "nome": "Sim Runner 62a9a64d3d806513",
+            "email": "simrun-62a9a64d3d806513@qa.dev",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "t5fcx73kNGNGqY3r"
+        },
+        {
+            "nome": "Authenticated User 1789145915100",
+            "email": "authenticated.user.1789145915100@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "vYJw0tUseZtEWL3b"
+        },
+        {
+            "nome": "Cart User 1789145919463",
+            "email": "cart.user.1789145919463@teste.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "xLhe2wbJ5Q4mIaHi"
+        },
+        {
+            "nome": "Usuário Nunes",
+            "email": "user0.reff17d97aa25@qa-reff17d97aa25.dev",
+            "password": "senha-0-reff17d97aa25",
+            "administrador": "false",
+            "_id": "xyJUP8vRXcaY7o3a"
+        },
+        {
+            "nome": "qa Team",
+            "email": "worker.beta.vrhwtxwvhpx@qa-vrhwtxwvhpx.dev",
+            "password": "pwvrhwtxwvhpxc",
+            "administrador": "false",
+            "_id": "yO5tnr1MaSsz2YYw"
+        }
+    ]
+}
