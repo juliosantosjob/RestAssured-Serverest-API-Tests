@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=1344035ad79893e270cc6101ee33b303
+date=Tue, 15 Sep 2026 16:06:11 GMT
+server=Google Frontend
+Content-Length=161
+Body: {
+    "nome": "Uriel",
+    "email": "Kris_Stroman43@hotmail.com",
+    "password": "1vhr3p1H56vteie",
+    "administrador": "true",
+    "_id": "0HZMMgrBmcRnxW7o"
+}
