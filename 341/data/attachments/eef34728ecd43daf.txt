@@ -1,0 +1,16 @@
+Status Code: 401
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=591684989c08c8d8a69be13a502b5967
+date=Wed, 16 Sep 2026 22:35:59 GMT
+server=Google Frontend
+Content-Length=48
+Body: {
+    "message": "Email e/ou senha inválidos"
+}
