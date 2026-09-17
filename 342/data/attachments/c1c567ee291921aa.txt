@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=48589914a8844f706ed8c976f5f0d049;o=1
+date=Thu, 17 Sep 2026 16:05:47 GMT
+server=Google Frontend
+Content-Length=156
+Body: {
+    "nome": "Colby.Hand",
+    "email": "Max_Jacobson@gmail.com",
+    "password": "821290990",
+    "administrador": "true",
+    "_id": "0Mui5grE7ALjeRz4"
+}
