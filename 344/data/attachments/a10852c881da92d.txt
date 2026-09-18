@@ -1,0 +1,361 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=8e8738f4a3aeab31b96b420fe31e818b
+date=Fri, 18 Sep 2026 15:42:43 GMT
+server=Google Frontend
+Content-Length=11094
+Body: {
+    "quantidade": 49,
+    "usuarios": [
+        {
+            "nome": "Raymond Brekke III",
+            "email": "raymondbrekkeiii@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "0lC4F2nPEGYylMqW"
+        },
+        {
+            "nome": "Jean Mohr",
+            "email": "jeanmohr@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "0n75kdsyoo54kPZz"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Arnold Cassin",
+            "email": "arnold.cassin.mu71qew32ay2f@qa.aloware.com.br",
+            "password": "KbdkjTddt5y6",
+            "administrador": "true",
+            "_id": "1M6v4Gk7blCkRgIR"
+        },
+        {
+            "nome": "Tim Lebsack",
+            "email": "timlebsack@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "2AnQThxQgsre2UJV"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa_1789743012065@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "3Frb9YW9NCBXnXAs"
+        },
+        {
+            "nome": "Braeden.Gutkowski61",
+            "email": "Rory7@hotmail.com",
+            "password": "197450996",
+            "administrador": "true",
+            "_id": "47QfeIt8sXfFO2iJ"
+        },
+        {
+            "nome": "Jan Durgan",
+            "email": "doreenrodriguez@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "6jH0OWUIvEL2lC5S"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa_1789743300088@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "7ts8cLkqCXo57ICj"
+        },
+        {
+            "nome": "adriel souza",
+            "email": "adriel.souza@qa.com.br",
+            "password": "123456789",
+            "administrador": "true",
+            "_id": "89mMpwe6iYfHc2uH"
+        },
+        {
+            "nome": "Hudson Quigley",
+            "email": "hudson.quigley.mu71rt226e8fk@qa.aloware.com.br",
+            "password": "PeRllTQfCYoa",
+            "administrador": "true",
+            "_id": "A5Sw5MKtXN7XLKJX"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa_1789744817955@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "AN31PHjcepM9Sjd5"
+        },
+        {
+            "nome": "Alexander Vargas",
+            "email": "ale12144@gmail.com",
+            "password": "123456789",
+            "administrador": "true",
+            "_id": "BUZvryVtqepyKDUl"
+        },
+        {
+            "nome": "Patrick Littel DVM",
+            "email": "patricklitteldvm@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "DOL6kecUbPZnG5PG"
+        },
+        {
+            "nome": " Bolsonaro",
+            "email": "mito@qa.com.br",
+            "password": "nova-senha",
+            "administrador": "true",
+            "_id": "DWTDPVecgep1SrPx"
+        },
+        {
+            "nome": " Flavio Bolsonaro",
+            "email": "mito2@qa.com.br",
+            "password": "nova-senha",
+            "administrador": "true",
+            "_id": "GJXgQBAPLAh6TkeK"
+        },
+        {
+            "nome": "Mr. Judd Price",
+            "email": "mr.judd.price.mu71p3gia8xx9@qa.aloware.com.br",
+            "password": "k8I_UGLIRBtB",
+            "administrador": "true",
+            "_id": "GWtt10RAHRJPULPQ"
+        },
+        {
+            "nome": "Craig",
+            "email": "prudence.sporer@yahoo.com",
+            "password": "8noo6eq68c1f",
+            "administrador": "true",
+            "_id": "GduF2GpHBnhDCv6d"
+        },
+        {
+            "nome": "Dewayne Weissnat III",
+            "email": "dewayne.weissnat.iii.mu71rv3ouo6o6@qa.aloware.com.br",
+            "password": "wFuKlIBFnMnI",
+            "administrador": "false",
+            "_id": "HGFOpl5FxGQLWy8O"
+        },
+        {
+            "nome": "Ms. Cheryl Hammes",
+            "email": "ms.cherylhammes@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "JakwDRnVdMxLUdhM"
+        },
+        {
+            "nome": "Randolph Carroll-Pollich DDS",
+            "email": "Alberta34@hotmail.com",
+            "password": "6N92f0Xh",
+            "administrador": "true",
+            "_id": "JuIbob849J3flpUx"
+        },
+        {
+            "nome": "Lyric_Gorczany",
+            "email": "Keira59@gmail.com",
+            "password": "085821108",
+            "administrador": "true",
+            "_id": "NJ2USs0zdsFXHZnR"
+        },
+        {
+            "nome": "Elizabeth_Mann",
+            "email": "Cathrine.Brekke@gmail.com",
+            "password": "784627129",
+            "administrador": "true",
+            "_id": "OfpJXaTGErPnTD4k"
+        },
+        {
+            "password": "pass1234",
+            "administrador": "true",
+            "nome": "Melani Harvey",
+            "email": "olevia.reinger@gmail.com",
+            "_id": "RUEGGbh1A8akPZJ0"
+        },
+        {
+            "nome": "Olivia Dickens",
+            "email": "olivia.dickens.mu71rqueuntgu@qa.aloware.com.br",
+            "password": "Mk9QF5dpJ1p9",
+            "administrador": "true",
+            "_id": "Rf79fG3Ce8CsgZqc"
+        },
+        {
+            "nome": "Brycen Block",
+            "email": "brycen.block.mu71rvcb57cku@qa.aloware.com.br",
+            "password": "hagzuzIDzYN6",
+            "administrador": "false",
+            "_id": "SgHpB3Tw74HVjLfO"
+        },
+        {
+            "nome": "QA User 5701",
+            "email": "qa.user.5701@mail.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "T0Uhka3MRHjo6nDX"
+        },
+        {
+            "nome": "Ola Schamberger",
+            "email": "ola.schamberger.mu71p8hf1g42c@qa.aloware.com.br",
+            "password": "yOFbSL69viUQ",
+            "administrador": "false",
+            "_id": "Ub86NieCHLvGougH"
+        },
+        {
+            "nome": "Rico Hermann",
+            "email": "rico.hermann.mu71qk6f8z52n@qa.aloware.com.br",
+            "password": "c_UdfnYePAWY",
+            "administrador": "false",
+            "_id": "Ugy55bbpLYGVTcvd"
+        },
+        {
+            "nome": "Raymundo.Cruickshank75",
+            "email": "Buck_Volkman98@yahoo.com",
+            "password": "212954922",
+            "administrador": "true",
+            "_id": "WTJGMDexldlxqFen"
+        },
+        {
+            "nome": "QA User 4371",
+            "email": "qa.user.4371@mail.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "YfHZ6Ob9hIrT2vqR"
+        },
+        {
+            "nome": "Anjali Paucek II",
+            "email": "anjali.paucek.ii.mu71qfsj2orq2@qa.aloware.com.br",
+            "password": "QvWKNDpCRh6o",
+            "administrador": "true",
+            "_id": "a1QPaJN6yC6EHrXV"
+        },
+        {
+            "nome": "Desiree Hodkiewicz",
+            "email": "desiree.hodkiewicz.mu71p466cwyt1@qa.aloware.com.br",
+            "password": "maStCsfduz7h",
+            "administrador": "true",
+            "_id": "a76oHIvaZW82asZW"
+        },
+        {
+            "nome": "Traci Dach",
+            "email": "Vance_Price@gmail.com",
+            "password": "8iEzSFM1",
+            "administrador": "true",
+            "_id": "aQQMKOmKzfUPd91L"
+        },
+        {
+            "nome": "Antonio Wiegand",
+            "email": "antoniowiegand@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "e6ut0AOLsFP1GFwN"
+        },
+        {
+            "nome": "Gracie.Monahan",
+            "email": "Ramiro83@yahoo.com",
+            "password": "344621823",
+            "administrador": "true",
+            "_id": "f5vWWeUk4IyxROrH"
+        },
+        {
+            "nome": "Carroll_Dickens36",
+            "email": "Boyd.Muller@gmail.com",
+            "password": "746381178",
+            "administrador": "true",
+            "_id": "fAytltP4NAkgzMeX"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa_1789742400200@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "gFRt82JsNF2Z1ric"
+        },
+        {
+            "nome": "Candidato QA",
+            "email": "candidato_qa_999@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "hQibtwgwl1aeXmdJ"
+        },
+        {
+            "nome": "Crawford Dietrich",
+            "email": "crawford.dietrich.mu71qhk94rx5w@qa.aloware.com.br",
+            "password": "jG9RfZnLQXb8",
+            "administrador": "true",
+            "_id": "l0S0oU7nqJNOyHHb"
+        },
+        {
+            "nome": "Edythe59",
+            "email": "Rogelio30@hotmail.com",
+            "password": "120472527",
+            "administrador": "true",
+            "_id": "nvJu43COaSQejuSE"
+        },
+        {
+            "nome": "Telly.Crooks",
+            "email": "Emilio_Nolan@hotmail.com",
+            "password": "182129903",
+            "administrador": "true",
+            "_id": "nzkuJTyObdBImuP8"
+        },
+        {
+            "nome": "Madisyn Kirlin",
+            "email": "madisyn.kirlin.mu71p5w6mcq33@qa.aloware.com.br",
+            "password": "0OROBaczfJCP",
+            "administrador": "true",
+            "_id": "vIm0QRWtb1FmWOCQ"
+        },
+        {
+            "nome": "Bethel Jones",
+            "email": "bethel.jones.mu71p85ce45dm@qa.aloware.com.br",
+            "password": "g4sUOanftXF6",
+            "administrador": "false",
+            "_id": "vrMzmY0fOTf4r8K8"
+        },
+        {
+            "nome": "Therese_Boehm",
+            "email": "Sam19@hotmail.com",
+            "password": "007138977",
+            "administrador": "true",
+            "_id": "wjn5JRJI307mhd4Y"
+        },
+        {
+            "nome": "测试管理员",
+            "email": "admin@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "wk6XylAdSgSrPVw0"
+        },
+        {
+            "nome": "QA Automation",
+            "email": "qa_1789745164947@teste.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "y7hc0XKD1yhOvezd"
+        },
+        {
+            "nome": "Roma Franey",
+            "email": "roma.franey.mu71lqm2xh8zz@qa.aloware.com.br",
+            "password": "ChnPupP2H_Gq",
+            "administrador": "false",
+            "_id": "yBDITup3KLULDnEW"
+        },
+        {
+            "nome": "Emanuel Nogueira",
+            "email": "mariaeduarda.porteira@yahoo.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "z44TPnqgqTLqmER7"
+        }
+    ]
+}

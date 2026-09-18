@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=7f7f2ce07dcb855907ecdd852fbd2051
+date=Fri, 18 Sep 2026 15:42:26 GMT
+server=Google Frontend
+Content-Length=166
+Body: {
+    "nome": "Raymond Brekke III",
+    "email": "raymondbrekkeiii@test.com",
+    "password": "Test;123",
+    "administrador": "true",
+    "_id": "0lC4F2nPEGYylMqW"
+}
