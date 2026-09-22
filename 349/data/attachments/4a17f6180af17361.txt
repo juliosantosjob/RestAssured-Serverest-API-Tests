@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=cc0b99db639088bedf96fa7349c57781
+date=Tue, 22 Sep 2026 22:40:24 GMT
+server=Google Frontend
+Content-Length=162
+Body: {
+    "nome": "Brett Bahringer",
+    "email": "Elias_Waters57@yahoo.com",
+    "password": "9tPecrdX",
+    "administrador": "true",
+    "_id": "07TT3qPTCaz2FGpA"
+}
