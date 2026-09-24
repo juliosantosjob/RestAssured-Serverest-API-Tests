@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=18357aaf94cd89e068ac4193616b02b6
+date=Thu, 24 Sep 2026 16:22:17 GMT
+server=Google Frontend
+Content-Length=156
+Body: {
+    "nome": "testqap2v21",
+    "email": "testqap2v21@email.com",
+    "password": "testqa26",
+    "administrador": "false",
+    "_id": "08WSkquH0c5lUL5r"
+}
