@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=03ed07542b2b6778b447d401b325de65
+date=Fri, 25 Sep 2026 23:02:20 GMT
+server=Google Frontend
+Content-Length=165
+Body: {
+    "nome": "Usuario QA",
+    "email": "qa_1790375748980_c7s8xk@test.com",
+    "password": "Test@123",
+    "administrador": "true",
+    "_id": "0g9WfMyTYcmXNAeD"
+}
