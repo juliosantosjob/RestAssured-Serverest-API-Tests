@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=6711e3fdae31bffd00ae2005b5b55785
+date=Thu, 01 Oct 2026 17:54:48 GMT
+server=Google Frontend
+Content-Length=154
+Body: {
+    "nome": "Dana Price",
+    "email": "acastro@example.net",
+    "password": "K@k1DluD!H",
+    "administrador": "true",
+    "_id": "0rIbN1jRyDzGwjiJ"
+}
