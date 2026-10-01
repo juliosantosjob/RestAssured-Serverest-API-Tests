@@ -1,0 +1,60 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=8370546e05a794150c1e02462df3feb8
+date=Thu, 01 Oct 2026 23:39:29 GMT
+server=Google Frontend
+Content-Length=1331
+Body: {
+    "quantidade": 6,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1790897963502@qarun.com",
+            "password": "Cypress@run1",
+            "administrador": "true",
+            "_id": "AKBMtJPmbfEiXrMh"
+        },
+        {
+            "nome": "Jariane Santos",
+            "email": "jarianenaval@gmail.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "GQQqOc81xB0MEXbz"
+        },
+        {
+            "nome": "Louis",
+            "email": "tom.kihn@hotmail.com",
+            "password": "czfef9ymsg2",
+            "administrador": "true",
+            "_id": "NxwV23ESAjZOEQDv"
+        },
+        {
+            "nome": "Admin QA",
+            "email": "admin_1790897958393@qarun.com",
+            "password": "Cypress@run1",
+            "administrador": "true",
+            "_id": "VhjxTyoCMFrn9f8M"
+        },
+        {
+            "nome": "Indiana",
+            "email": "indianamcosta@gmail.com",
+            "password": "123456@",
+            "administrador": "false",
+            "_id": "ld0ftcFoO0mCx76A"
+        }
+    ]
+}
