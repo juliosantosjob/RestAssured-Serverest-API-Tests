@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=899f3a709413da6df44246160820e1d0
+date=Tue, 06 Oct 2026 23:31:35 GMT
+server=Google Frontend
+Content-Length=173
+Body: {
+    "nome": "Playwright QA",
+    "email": "playwright.qa.1791328610173@teste.com",
+    "password": "teste123",
+    "administrador": "true",
+    "_id": "0c5L9cfJQxRIiDiL"
+}
