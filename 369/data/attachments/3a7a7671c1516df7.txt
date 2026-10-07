@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=c70025a8230e3f7a31c211791c5cdbe1
+date=Wed, 07 Oct 2026 18:19:58 GMT
+server=Google Frontend
+Content-Length=157
+Body: {
+    "nome": "Graciela70",
+    "email": "Leonie_Murray@gmail.com",
+    "password": "553782974",
+    "administrador": "true",
+    "_id": "05Bq12vGJgF7gF4b"
+}
