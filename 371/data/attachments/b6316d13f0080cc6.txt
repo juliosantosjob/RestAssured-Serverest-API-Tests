@@ -1,0 +1,16 @@
+Status Code: 400
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=63112435481bbe9149e53f5bef0e179c
+date=Thu, 08 Oct 2026 18:19:59 GMT
+server=Google Frontend
+Content-Length=67
+Body: {
+    "administrador": "administrador deve ser 'true' ou 'false'"
+}
