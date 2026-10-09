@@ -1,0 +1,81 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=883de977aeef22ba2ab6f58301b44ce5
+date=Fri, 09 Oct 2026 00:07:06 GMT
+server=Google Frontend
+Content-Length=1936
+Body: {
+    "quantidade": 9,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "user6759",
+            "email": "user6759@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "2JoIFhdYcxX7IKIQ"
+        },
+        {
+            "nome": "user1370",
+            "email": "user1370@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "34zmBGBhRrIRROH3"
+        },
+        {
+            "nome": "user5760",
+            "email": "user5760@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ArrpcmQoMyYLXSbU"
+        },
+        {
+            "nome": "Scotty",
+            "email": "margherita.considine@yahoo.com",
+            "password": "fgd035foh5i3j3n",
+            "administrador": "true",
+            "_id": "FpPvcFwWMwea7IQ0"
+        },
+        {
+            "nome": "user1843",
+            "email": "user1843@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "j8o6SQju0cca1yLg"
+        },
+        {
+            "nome": "user9725",
+            "email": "user9725@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "jRD6t10xl8Lf0xvN"
+        },
+        {
+            "nome": "user7325",
+            "email": "user7325@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "v5KYH1EnbGfUGwDA"
+        },
+        {
+            "nome": "Gabriel Leal",
+            "email": "gabrielzert12@gmail.com",
+            "password": "teste678",
+            "administrador": "false",
+            "_id": "yfuIT9MCIY5LFMbC"
+        }
+    ]
+}
