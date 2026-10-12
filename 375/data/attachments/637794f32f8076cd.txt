@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=a29d0fc0ab28b4108f7dc81fb225242d
+date=Mon, 12 Oct 2026 20:48:21 GMT
+server=Google Frontend
+Content-Length=166
+Body: {
+    "nome": "Aluno Teste",
+    "email": "qa_teste_1791831424340@gmail.com",
+    "password": "teste123",
+    "administrador": "true",
+    "_id": "04QLZVfU1k9TCF1g"
+}
