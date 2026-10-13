@@ -1,0 +1,529 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=8302e882a017e3c8372f927910c9a567
+date=Tue, 13 Oct 2026 18:47:32 GMT
+server=Google Frontend
+Content-Length=16737
+Body: {
+    "quantidade": 73,
+    "usuarios": [
+        {
+            "nome": "Edith Hilpert III",
+            "email": "edithhilpertiii@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "06m98cAj2w92AaeJ"
+        },
+        {
+            "nome": "Clifton.Ebert",
+            "email": "Lee.McLaughlin@hotmail.com",
+            "password": "800434891",
+            "administrador": "true",
+            "_id": "0CcXQlxritrmtLu2"
+        },
+        {
+            "nome": "Usuário Playwright",
+            "email": "playwright_1791914515506@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "0kVwZ9yKT9vWC5fU"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Harvey99",
+            "email": "Domenic.Becker@hotmail.com",
+            "password": "570104770",
+            "administrador": "true",
+            "_id": "2pBbCU7vkg4JKLpD"
+        },
+        {
+            "nome": "Usuário Playwright",
+            "email": "playwright_1791914510675@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "36iwiq7WHfxBpGh7"
+        },
+        {
+            "nome": "Search Buyer",
+            "email": "search_buyer_1791912527246@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "3hIbYQ6tD9V6ihY3"
+        },
+        {
+            "nome": "Kyleigh_Kris48",
+            "email": "Estel.Mohr@yahoo.com",
+            "password": "594604061",
+            "administrador": "true",
+            "_id": "3qXqfixxcqRVPoWd"
+        },
+        {
+            "nome": "Usuario Playwright v2 1791915374193-5462",
+            "email": "playwright.v2.1791915374193-5462@example.com",
+            "password": "SenhaV2@123",
+            "administrador": "true",
+            "_id": "3rmizN97CK4K38NF"
+        },
+        {
+            "nome": "Cali.Jones98",
+            "email": "Shanel.Ritchie71@gmail.com",
+            "password": "103541200",
+            "administrador": "true",
+            "_id": "5FH7Oowjfk60WQMX"
+        },
+        {
+            "nome": "Pam O'Reilly",
+            "email": "claireschaefer@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "6IJG4qSP3e9Ybnka"
+        },
+        {
+            "nome": "Usuario paralelo v2 1791913539489-7730",
+            "email": "paralelo.v2.1791913539489-7730@example.com",
+            "password": "SenhaParalela@123",
+            "administrador": "false",
+            "_id": "7FePGOT8Cguwl3G3"
+        },
+        {
+            "nome": "Menu Admin",
+            "email": "menu_admin_1791912549688@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "7sEbxN4CMXDEi0xL"
+        },
+        {
+            "nome": "Mitchell_Harris",
+            "email": "Virginie_Purdy@gmail.com",
+            "password": "063342558",
+            "administrador": "true",
+            "_id": "9UjhuAetdcGORhQr"
+        },
+        {
+            "nome": "Hershel35",
+            "email": "Marcellus.Heller52@yahoo.com",
+            "password": "071594792",
+            "administrador": "true",
+            "_id": "9wANmlXKgSkgYwwR"
+        },
+        {
+            "nome": "Usuario Playwright v2 1791913539102-6000",
+            "email": "playwright.v2.1791913539102-6000@example.com",
+            "password": "SenhaV2@123",
+            "administrador": "true",
+            "_id": "AIMd6BPVfKl6YYXe"
+        },
+        {
+            "nome": "Usuario Playwright v2 1791914673563-3463",
+            "email": "playwright.v2.1791914673563-3463@example.com",
+            "password": "SenhaV2@123",
+            "administrador": "true",
+            "_id": "Cnj8YcfdbHeu512Y"
+        },
+        {
+            "nome": "Leonardo Mello",
+            "email": "leonardo.mello@dbservices.pt",
+            "password": "dbservices@2026",
+            "administrador": "true",
+            "_id": "CwWjtrWzmYLOy3E6"
+        },
+        {
+            "nome": "Toni67",
+            "email": "Dessie73@yahoo.com",
+            "password": "444791380",
+            "administrador": "true",
+            "_id": "Fi4MtqshkZg9HQJ2"
+        },
+        {
+            "nome": "Ervin Reichert",
+            "email": "ervinreichert@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "GEIUxqQeibz5nzKF"
+        },
+        {
+            "nome": "Usuario API",
+            "email": "api1791915787543@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "H4TubLVQAsbpU51D"
+        },
+        {
+            "nome": "José Eduardo Souza",
+            "email": "jose.souza@dbservices.pt",
+            "password": "102030",
+            "administrador": "true",
+            "_id": "HwzBHZjSQc29WHrz"
+        },
+        {
+            "nome": "Test User",
+            "email": "ваш_уникальный_email@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "I5dYR2FKQDsHXVxo"
+        },
+        {
+            "nome": "Flow Buyer",
+            "email": "flow_buyer_1791912549688@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "Jk0H57bv96a8xz91"
+        },
+        {
+            "nome": "Search Admin",
+            "email": "search_admin_1791912527246@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "KbiqRgRAgAyKJw4b"
+        },
+        {
+            "nome": "Usuario paralelo v2 1791912835512-3909",
+            "email": "paralelo.v2.1791912835512-3909@example.com",
+            "password": "SenhaParalela@123",
+            "administrador": "false",
+            "_id": "LKz4ltOn80DLFvVH"
+        },
+        {
+            "nome": "Ciclano",
+            "email": "cilano4@email.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "LkqFTGR9k0dDY7OB"
+        },
+        {
+            "nome": "Rose.Bednar",
+            "email": "Anais_Howell32@yahoo.com",
+            "password": "581823611",
+            "administrador": "true",
+            "_id": "MA5cSIvjUoFr5Dsu"
+        },
+        {
+            "nome": "List Buyer",
+            "email": "list_buyer_1791912570813@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "Oo1saSmuQPRwvVIa"
+        },
+        {
+            "nome": "Usuario Playwright v2 1791912835971-8476",
+            "email": "playwright.v2.1791912835971-8476@example.com",
+            "password": "SenhaV2@123",
+            "administrador": "true",
+            "_id": "Oziz1y6QM9oo8dAm"
+        },
+        {
+            "nome": "Ervin_Hilll-Fisher",
+            "email": "Winona_Koelpin@yahoo.com",
+            "password": "662494663",
+            "administrador": "true",
+            "_id": "PKLOeheRy7ncqpxy"
+        },
+        {
+            "nome": "Search2 Admin",
+            "email": "search2_admin_1791912608451@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "Pdl9SSuipkLQ4MFC"
+        },
+        {
+            "nome": "QA User 9724",
+            "email": "qa.user.9724@mail.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "QdUURY93RHlKDKj8"
+        },
+        {
+            "nome": "Usuario paralelo v2 1791915374597-4410",
+            "email": "paralelo.v2.1791915374597-4410@example.com",
+            "password": "SenhaParalela@123",
+            "administrador": "false",
+            "_id": "RO1kVnZaYQkYgNoh"
+        },
+        {
+            "nome": "Usuario admin 1791913543527-6265",
+            "email": "admin.1791913543527-6265@example.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "SWJ53oK3K4MGSf73"
+        },
+        {
+            "nome": "Alejandro Jerde",
+            "email": "alejandrojerde@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "TD1PsdUdbJX4g0lc"
+        },
+        {
+            "nome": "Elyse1",
+            "email": "Arlo.Huels@yahoo.com",
+            "password": "387120507",
+            "administrador": "true",
+            "_id": "V33nS1y7ORIzynlt"
+        },
+        {
+            "nome": "Usuario QA 1791914864946",
+            "email": "qa1791914864946@example.com",
+            "password": "SenhaQA123!",
+            "administrador": "true",
+            "_id": "VOfyVOXeeFkFDqdg"
+        },
+        {
+            "nome": "QA User 2268",
+            "email": "qa.user.2268@mail.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "VRFIfUT6dDNfJZwt"
+        },
+        {
+            "nome": "Americo50",
+            "email": "Dan_Cassin8@hotmail.com",
+            "password": "151771640",
+            "administrador": "true",
+            "_id": "VecZmwvXljfiMxTJ"
+        },
+        {
+            "nome": "Elvis_Osinski25",
+            "email": "Shyanne_Hayes67@gmail.com",
+            "password": "565758323",
+            "administrador": "true",
+            "_id": "XOSyBBC9ILvYlS5v"
+        },
+        {
+            "nome": "Candelario41",
+            "email": "Fred13@yahoo.com",
+            "password": "073245835",
+            "administrador": "true",
+            "_id": "YsSSOGq5f9sDauFv"
+        },
+        {
+            "nome": "Clear Buyer",
+            "email": "clear_buyer_1791912608447@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "ZEuhBnUA6jPRX7SS"
+        },
+        {
+            "nome": "List Admin",
+            "email": "list_admin_1791912570813@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "ZNDhQsQKj6ZTS1Td"
+        },
+        {
+            "nome": "Brandyn21",
+            "email": "Amelia58@hotmail.com",
+            "password": "300011068",
+            "administrador": "true",
+            "_id": "alnI5iFf77l6BYZj"
+        },
+        {
+            "nome": "Usuario Playwright v2 1791914091614-1310",
+            "email": "playwright.v2.1791914091614-1310@example.com",
+            "password": "SenhaV2@123",
+            "administrador": "true",
+            "_id": "c63iokuP0RQn266l"
+        },
+        {
+            "nome": "Usuario admin 1791914677321-1890",
+            "email": "admin.1791914677321-1890@example.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "dz8536Bypd2usEMM"
+        },
+        {
+            "nome": "Carol68",
+            "email": "Earnestine61@yahoo.com",
+            "password": "798055353",
+            "administrador": "true",
+            "_id": "eoEcn3yymRgwpKCd"
+        },
+        {
+            "nome": "Jewell91",
+            "email": "Tyson_Baumbach@gmail.com",
+            "password": "734340353",
+            "administrador": "true",
+            "_id": "ey8RG6Cyed5sVvKc"
+        },
+        {
+            "nome": "Clear Admin",
+            "email": "clear_admin_1791912608447@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "glMHzps23Qt64Nbv"
+        },
+        {
+            "nome": "Cecilia82",
+            "email": "Josiane.Gulgowski@yahoo.com",
+            "password": "741645401",
+            "administrador": "true",
+            "_id": "gzWBSf6kHcfwbVij"
+        },
+        {
+            "nome": "Mr. Bridget Connelly",
+            "email": "mr.bridgetconnelly@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "hRT1tkHDeR5MXzcT"
+        },
+        {
+            "nome": "Detail Buyer",
+            "email": "detail_buyer_1791912570813@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "j6Q7H78V2KxBplY5"
+        },
+        {
+            "nome": "Rico.Harris",
+            "email": "Rogelio.Cremin@yahoo.com",
+            "password": "678926491",
+            "administrador": "true",
+            "_id": "jHYcWCZy7w5ndWO5"
+        },
+        {
+            "nome": "Usuario admin 1791912840430-1686",
+            "email": "admin.1791912840430-1686@example.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "lPWuGpiuhIdrLb2P"
+        },
+        {
+            "nome": "Rosie Ziemann",
+            "email": "rosieziemann@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "lQDus3UQ3oUEMl8A"
+        },
+        {
+            "nome": "Search2 Buyer",
+            "email": "search2_buyer_1791912608451@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "lhz7UM5e4jUK5ODw"
+        },
+        {
+            "nome": "Flow Admin",
+            "email": "flow_admin_1791912549688@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "o62NZ06zeJNrp9Vl"
+        },
+        {
+            "nome": "Hyman",
+            "email": "basil.marks@hotmail.com",
+            "password": "cukvkieni",
+            "administrador": "true",
+            "_id": "of22pqYwwtcdmutG"
+        },
+        {
+            "nome": "Detail Admin",
+            "email": "detail_admin_1791912570813@qa.com",
+            "password": "teste123",
+            "administrador": "true",
+            "_id": "pXiOr8fPDsGSl5kW"
+        },
+        {
+            "nome": "Usuario admin 1791914095604-2477",
+            "email": "admin.1791914095604-2477@example.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "ppxpEpXQQ2kYCyxZ"
+        },
+        {
+            "nome": "Kimberly Cruickshank",
+            "email": "kimberlycruickshank@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "q2MkZgXnp0Sd3hYy"
+        },
+        {
+            "nome": "Mafalda.Lynch",
+            "email": "Jamel_Walsh36@yahoo.com",
+            "password": "342612929",
+            "administrador": "true",
+            "_id": "rFS5N8m3LdLFZ6k6"
+        },
+        {
+            "nome": "Usuario admin 1791915378889-2739",
+            "email": "admin.1791915378889-2739@example.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "rdT7tuznr0RSbOuC"
+        },
+        {
+            "nome": "Usuário Playwright",
+            "email": "playwright_1791914513098@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "sIIkJh3sldvkJDs7"
+        },
+        {
+            "nome": "Usuario paralelo v2 1791914673943-8803",
+            "email": "paralelo.v2.1791914673943-8803@example.com",
+            "password": "SenhaParalela@123",
+            "administrador": "false",
+            "_id": "sWme7qd2Ku189eIS"
+        },
+        {
+            "nome": "Usuario API",
+            "email": "api1791915786048@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "tSHXjYtYy32txveW"
+        },
+        {
+            "nome": "Rosario.Nolan",
+            "email": "Danny92@yahoo.com",
+            "password": "189132531",
+            "administrador": "true",
+            "_id": "uYuCmZz2ktkVoQgC"
+        },
+        {
+            "nome": "Usuario paralelo v2 1791914091823-103",
+            "email": "paralelo.v2.1791914091823-103@example.com",
+            "password": "SenhaParalela@123",
+            "administrador": "false",
+            "_id": "vVKluGBtq5z8nsfY"
+        },
+        {
+            "nome": "Usuario API",
+            "email": "api1791914089441@teste.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "wYmHhsZXgaqy96QF"
+        },
+        {
+            "nome": "Audie.Hahn76",
+            "email": "Zaria72@gmail.com",
+            "password": "505185650",
+            "administrador": "true",
+            "_id": "xUePqKlD3h6hXPf8"
+        },
+        {
+            "nome": "Bailey.Gleason",
+            "email": "Rosamond.Abbott@gmail.com",
+            "password": "145665348",
+            "administrador": "true",
+            "_id": "yQLytgqmDKdtWjis"
+        },
+        {
+            "nome": "Rex94",
+            "email": "Iliana.Cummings52@hotmail.com",
+            "password": "951541751",
+            "administrador": "true",
+            "_id": "yi2DACoRjw2Pv4JX"
+        }
+    ]
+}
