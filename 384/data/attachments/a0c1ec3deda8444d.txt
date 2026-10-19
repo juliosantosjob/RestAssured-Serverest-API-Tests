@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=a04b4703a7c233d77c37e8d467890f45
+date=Mon, 19 Oct 2026 18:14:01 GMT
+server=Google Frontend
+Content-Length=195
+Body: {
+    "nome": "Hollie Stanton",
+    "email": "test.78be6f7c-6ea7-47ba-a43f-c64df4a2b1f3@example.com",
+    "password": "Y6v6Pvpo8l81",
+    "administrador": "false",
+    "_id": "0Zxfh9Odv1FQC3IN"
+}
