@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=953682a76e9145fb4d7de8d38252e109
+date=Mon, 26 Oct 2026 18:07:09 GMT
+server=Google Frontend
+Content-Length=161
+Body: {
+    "nome": "Elisa Bechtelar",
+    "email": "elisabechtelar@test.com",
+    "password": "Test;123",
+    "administrador": "true",
+    "_id": "0ApPqSm6E4jFgxb2"
+}
