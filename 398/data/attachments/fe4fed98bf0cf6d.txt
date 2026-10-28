@@ -1,0 +1,130 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=3727240a6d5824fdc966183d81e3a5fd
+date=Wed, 28 Oct 2026 17:49:19 GMT
+server=Google Frontend
+Content-Length=3529
+Body: {
+    "quantidade": 16,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Savannah.Kohler",
+            "email": "Osbaldo.Cormier49@gmail.com",
+            "password": "588306605",
+            "administrador": "true",
+            "_id": "7c0mklLtMeT8sn47"
+        },
+        {
+            "nome": "Korey_Williamson",
+            "email": "Fay72@yahoo.com",
+            "password": "750351748",
+            "administrador": "true",
+            "_id": "AQDHEbZ6og5XYGz3"
+        },
+        {
+            "nome": "Kathryne Watsica",
+            "email": "Lupe49@example.org",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "Jq4S8HG8Ay0gEyhu"
+        },
+        {
+            "nome": "Delaney Streich II",
+            "email": "Durward81@example.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "KR7pawOslHIHmn1e"
+        },
+        {
+            "nome": "Aaron Willms",
+            "email": "Duncan49@example.net",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "KymH7wp0WiNE7nhc"
+        },
+        {
+            "nome": "Marco_DAmore14",
+            "email": "Sydnie45@hotmail.com",
+            "password": "887091617",
+            "administrador": "true",
+            "_id": "R8u6Q4wbn3oUwibl"
+        },
+        {
+            "nome": "Kraig Effertz-Mosciski IV",
+            "email": "Kacey31@example.org",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "T8Afu0IhH2Y1PD32"
+        },
+        {
+            "nome": "Shameka",
+            "email": "bennie.ryan@hotmail.com",
+            "password": "zde9u7pamesi",
+            "administrador": "true",
+            "_id": "UpF6aTjQLp73WKkZ"
+        },
+        {
+            "nome": "Madeline.OKeefe82",
+            "email": "Etha_Conroy56@gmail.com",
+            "password": "145930526",
+            "administrador": "true",
+            "_id": "Zn6yiBcx83uf0ZUc"
+        },
+        {
+            "nome": "teste",
+            "email": "login@login.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "blgnD1GRuRFWet3J"
+        },
+        {
+            "nome": "Moshe.Goodwin-Conn88",
+            "email": "Demario24@gmail.com",
+            "password": "883752054",
+            "administrador": "true",
+            "_id": "llbY1hH49gaPC9PC"
+        },
+        {
+            "nome": "Nash_Runolfsdottir",
+            "email": "Mathew_Kassulke15@yahoo.com",
+            "password": "830251528",
+            "administrador": "true",
+            "_id": "pIIkUrfREJsy4FbA"
+        },
+        {
+            "nome": "Pasquale.McKenzie38",
+            "email": "Taurean.Ruecker60@yahoo.com",
+            "password": "594521124",
+            "administrador": "true",
+            "_id": "t0BFDcOTQKl5R7Lx"
+        },
+        {
+            "nome": "Bernardo89",
+            "email": "Jordan.Koelpin32@gmail.com",
+            "password": "464244871",
+            "administrador": "true",
+            "_id": "tFfIxhNEeh1gYP91"
+        },
+        {
+            "nome": "amanda da Silva",
+            "email": "Mike.inspeferreira5903@gmail.com",
+            "password": "lokoste",
+            "administrador": "true",
+            "_id": "zW2Ancvd1xt38jKV"
+        }
+    ]
+}
