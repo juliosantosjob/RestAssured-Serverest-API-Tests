@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=2fb4a2bfec7040d651d929a3c5cc04f2
+date=Tue, 03 Nov 2026 18:58:15 GMT
+server=Google Frontend
+Content-Length=151
+Body: {
+    "nome": "Alysa40",
+    "email": "Noemy.Kris@gmail.com",
+    "password": "101380183",
+    "administrador": "true",
+    "_id": "11JeaXzobnStZnqw"
+}
