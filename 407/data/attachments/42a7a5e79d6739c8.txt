@@ -1,0 +1,914 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=a0698dd3ffd923dcdd7af8e6ebd5abcd
+date=Wed, 04 Nov 2026 19:15:44 GMT
+server=Google Frontend
+Content-Length=30274
+Body: {
+    "quantidade": 128,
+    "usuarios": [
+        {
+            "nome": "teste1234",
+            "email": "novo_email_unico_12345@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Mohamed_Pfeffer",
+            "email": "Cecil_Padberg@yahoo.com",
+            "password": "225649177",
+            "administrador": "true",
+            "_id": "1G3crmj2czxpvrMo"
+        },
+        {
+            "nome": "QA User 4493",
+            "email": "qa.user.4493@mail.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "1QXhWs4icrtS2Lto"
+        },
+        {
+            "nome": "Harvey.Collins",
+            "email": "Antone_Senger42@yahoo.com",
+            "password": "588383474",
+            "administrador": "true",
+            "_id": "1RpKm1XJ5CQlIsGc"
+        },
+        {
+            "nome": "Carlo McKenzie",
+            "email": "shirley.lakin@yahoo.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "1cX07hqtPR8sEqCg"
+        },
+        {
+            "nome": "Gennaro.Walter",
+            "email": "Oswald46@yahoo.com",
+            "password": "205382327",
+            "administrador": "true",
+            "_id": "3xS2oHe0FbAgaKTq"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811542081@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "44LuVshs0vd55mq7"
+        },
+        {
+            "nome": "Magnolia_Welch49",
+            "email": "Consuelo.Johnson@yahoo.com",
+            "password": "838688196",
+            "administrador": "true",
+            "_id": "4Zcga4rli0zEGrFQ"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811552669@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "4tbCcyMqtpRpAV2G"
+        },
+        {
+            "nome": "Usuário Admin Cypress",
+            "email": "novoadmin_cypress_1793812370376@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "5HhIALFl0T3TXhTn"
+        },
+        {
+            "nome": "Admin Cypress",
+            "email": "admin_cypress_1793812369497@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "5wFnj40g5NJin7j3"
+        },
+        {
+            "nome": "Admin Login QA",
+            "email": "admin_1793812338044@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "67ojjC5SIWat5ETj"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa Atualizado",
+            "email": "ricardo.1782262633700@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "6J1FbP4Fp6Uue41X"
+        },
+        {
+            "nome": "Shanon Purdy",
+            "email": "ricardo.farrell@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "6L2dnDZnvVGfDgGp"
+        },
+        {
+            "nome": "Usuário Cypress",
+            "email": "usuario_cypress_1793812363126@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "6RuDhlioX2OsvTbc"
+        },
+        {
+            "nome": "Arlie_Yost",
+            "email": "Ernesto50@gmail.com",
+            "password": "434451827",
+            "administrador": "true",
+            "_id": "71JkRYYCPry1W0yr"
+        },
+        {
+            "nome": "Usuário Playwright",
+            "email": "playwright_1793815279052@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "7CxSDCmxqmh8hvfo"
+        },
+        {
+            "nome": "Usuário Cypress",
+            "email": "usuario_cypress_1793813990803@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "8E5jB7zZQuJSvV33"
+        },
+        {
+            "nome": "Ginger Baumbach",
+            "email": "Mitchell.Schneider56@gmail.com",
+            "password": "bbC5NqrL",
+            "administrador": "true",
+            "_id": "8ha4VRICAvn9EpO7"
+        },
+        {
+            "nome": "Helena Franco",
+            "email": "usuario.bcn4jx1n@teste.com",
+            "password": "5QGCv9Uzmr",
+            "administrador": "true",
+            "_id": "8swjWIN4TMoO0txY"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811743209@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "8tNOomkUlGN96IYV"
+        },
+        {
+            "nome": "Jody Mueller",
+            "email": "jodymueller@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "8x2f6vaIedV7rd9P"
+        },
+        {
+            "nome": "Dora Weissnat-Sawayn",
+            "email": "doraweissnat-sawayn.Prohaska@serverest.dev",
+            "password": "6mrmMhF0nese",
+            "administrador": "false",
+            "_id": "9MuCwlCSm6lITVj4"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811733789@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "AgC4rRUHiNWQ5cTS"
+        },
+        {
+            "nome": "Marcella Kunde",
+            "email": "marcellakunde_Bins22@serverest.dev",
+            "password": "6iW34_cU7iM4",
+            "administrador": "true",
+            "_id": "AnbG4GUruJJsImdZ"
+        },
+        {
+            "nome": "Tod97",
+            "email": "Elliott33@gmail.com",
+            "password": "336051907",
+            "administrador": "true",
+            "_id": "AqXjgqVECyHQ2fXV"
+        },
+        {
+            "nome": "Usuário Cypress",
+            "email": "usuario_cypress_1793813996986@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "BExslG6Lk0oaqQrh"
+        },
+        {
+            "nome": "Troy Langworth",
+            "email": "troylangworth_Rodriguez45@serverest.dev",
+            "password": "ibwpmcWhmRzv",
+            "administrador": "true",
+            "_id": "C1g8TSTzzr4Ga9Cw"
+        },
+        {
+            "nome": "Luiza Santos",
+            "email": "qa.1793819634762an6ald@teste.com.br",
+            "password": "nQ2Z7L7bdkBf",
+            "administrador": "false",
+            "_id": "CDcUB2VswnIDzWNv"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "vkiczhko@emailteste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "CMMyUZbXyV5H1wrY"
+        },
+        {
+            "nome": "Rasheed.Lockman",
+            "email": "Virgie19@hotmail.com",
+            "password": "471207920",
+            "administrador": "true",
+            "_id": "CXFaEYm2QOhvcRT1"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811710597@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "CXHObKqPfwBnt2og"
+        },
+        {
+            "nome": "Loyce24",
+            "email": "Jermey_Hagenes@yahoo.com",
+            "password": "234881131",
+            "administrador": "true",
+            "_id": "DtTuXEdfbRSwkke0"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811731869@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "EMmaS9QL0tzvtsQd"
+        },
+        {
+            "nome": "Ms. Genevieve Runolfsdottir",
+            "email": "ms.genevieverunolfsdottir@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "EpYxSnZKzMl6jjrI"
+        },
+        {
+            "nome": "Sergio Hessel",
+            "email": "cletus.considine@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "F6Dx5W1E4lk5VhmH"
+        },
+        {
+            "nome": "Margarette_Hackett1",
+            "email": "Vallie.McGlynn11@hotmail.com",
+            "password": "468373408",
+            "administrador": "true",
+            "_id": "FLSdbAyum8RFMvjV"
+        },
+        {
+            "nome": "Jasmine Mosciski",
+            "email": "hildegarde.kshlerin@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "Fl9XpDehkeile7Ez"
+        },
+        {
+            "nome": "Eddie Wiegand III",
+            "email": "Jayson39@yahoo.com",
+            "password": "QunxCeulvK4XaIO",
+            "administrador": "true",
+            "_id": "GOZNT4LxbORs7OwW"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811735657@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "GqlRPuoO1SHIkxsW"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811745118@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "HYpeRgdsZhGX2CUn"
+        },
+        {
+            "nome": "Kent Collier",
+            "email": "Cleveland_Harvey-Bashirian80@gmail.com",
+            "password": "0JM_KBXn",
+            "administrador": "true",
+            "_id": "He3d11v2rNESUvVU"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.atualizado.1793811748928@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "HjAdekCdq3HattkU"
+        },
+        {
+            "nome": "Dominic Kertzmann",
+            "email": "Fletcher_Hand@gmail.com",
+            "password": "A72lwgvy",
+            "administrador": "true",
+            "_id": "IAB925U5ByermGdP"
+        },
+        {
+            "nome": "Vicki Hoeger",
+            "email": "Christop71@gmail.com",
+            "password": "doAfZ0pS",
+            "administrador": "true",
+            "_id": "JOFPumkb5Vg4gYj9"
+        },
+        {
+            "nome": "Keith.Koelpin-Brakus",
+            "email": "Mose.Hansen51@yahoo.com",
+            "password": "731094683",
+            "administrador": "true",
+            "_id": "LNDjzrIhT7mJxwC4"
+        },
+        {
+            "nome": "Jamal Donnelly",
+            "email": "dan.will@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "M7kkPpoVQHpSUMew"
+        },
+        {
+            "nome": "Admin Cypress",
+            "email": "admin_cypress_1793812372813@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "MXRvmAjt0omVPUlw"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811714635@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "MdgvWwBPxk7WO14k"
+        },
+        {
+            "nome": "Teste",
+            "email": "teste1793804150812@teste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "Nj6jaw7TsiIyGttO"
+        },
+        {
+            "nome": "Admin Cypress",
+            "email": "admin_cypress_1793812367306@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "Oph5Rx1RBmbY7s9o"
+        },
+        {
+            "nome": "Cristopher_Hand23",
+            "email": "Amani.Murphy@yahoo.com",
+            "password": "522347405",
+            "administrador": "true",
+            "_id": "P6PytQTQoCdPRHzb"
+        },
+        {
+            "nome": "Heather Hodkiewicz",
+            "email": "Teagan9@hotmail.com",
+            "password": "gmrmK3Cs",
+            "administrador": "true",
+            "_id": "QZZP3MTHRC2kYhIG"
+        },
+        {
+            "nome": "Gloxinia",
+            "email": "Dezomandamentos10@gmail.com",
+            "password": "123456789",
+            "administrador": "false",
+            "_id": "QgUu2ubHe0bmdPi6"
+        },
+        {
+            "nome": "Napoleon Bruen",
+            "email": "odilia.mayer@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "S9LGXlp4RdJ47qhH"
+        },
+        {
+            "nome": "Usuario Teste API",
+            "email": "qa.b45a86e8-7d28-4ed1-902c-0212c4e662bf@example.com",
+            "password": "Teste123",
+            "administrador": "false",
+            "_id": "SIlIZWTe4sAKyisx"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "truvhefs@emailteste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "SMOgfEb9dmiAkkmS"
+        },
+        {
+            "nome": "Omer Marvin V",
+            "email": "ha.feeney@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "TUOlWt4uj7IgGfg9"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811716678@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "TxYcH63k07m3jAnA"
+        },
+        {
+            "nome": "Félix Batista",
+            "email": "usuario.ljcnuzgy@teste.com",
+            "password": "vpPevlI1nt",
+            "administrador": "false",
+            "_id": "UCnKFoyiXCC60wao"
+        },
+        {
+            "nome": "Klaywin Ryan Aquino Dias",
+            "email": "klaywindias@gmail.com",
+            "password": "12344",
+            "administrador": "false",
+            "_id": "UDW0uoG27QrVeLhH"
+        },
+        {
+            "nome": "Mandy Prohaska",
+            "email": "sharimoore@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "UFmpy9g9M37R3hTd"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano+1@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "VNJj2e84lYSOOVY7"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811529810@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "VRIjPLvhQshuptmR"
+        },
+        {
+            "nome": "QA Automatizado 1ba099508f0f43b8",
+            "email": "qa.1ba099508f0f43b8@example.com",
+            "password": "Senha1234!",
+            "administrador": "false",
+            "_id": "VhkuQ1H6KGOZ4NgP"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811534110@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "Vl3cBGGvsdyZc9k6"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "horadoqa@horadoqa.com.br",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "W3QdbByWoPZWS3WW"
+        },
+        {
+            "nome": "Emanuelly Franco Jr.",
+            "email": "usuario.1qikh5uo@teste.com",
+            "password": "RCqL9AnL0v",
+            "administrador": "false",
+            "_id": "WGeqQaK8Q9r3pgrZ"
+        },
+        {
+            "nome": "Rollin Schowalter",
+            "email": "Talon_Pacocha@gmail.com",
+            "password": "l8lWnYQLDQUmt8F",
+            "administrador": "true",
+            "_id": "WfE0kV9TebRVgXLE"
+        },
+        {
+            "nome": "Clay Rau",
+            "email": "Ciara20@gmail.com",
+            "password": "unCqAasK",
+            "administrador": "true",
+            "_id": "WrwF2YikLAQBNhCY"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano+2@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "XgBMWKsIYFJV7xs4"
+        },
+        {
+            "nome": "Arnoldo Wisozk",
+            "email": "sharonda.rutherford@yahoo.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "XqtYCweA1kqHhtj2"
+        },
+        {
+            "nome": "Dr. Felipe Larkin",
+            "email": "Derek81@gmail.com",
+            "password": "Fbd_0P_q",
+            "administrador": "true",
+            "_id": "XxhUpY1PXI05WaW2"
+        },
+        {
+            "nome": "Kayden.Brekke",
+            "email": "Dayna_Cummerata@hotmail.com",
+            "password": "019291513",
+            "administrador": "true",
+            "_id": "a9EaGN5dWfGytmDx"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811718678@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "aJV9HthVOoJI3aFj"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811779244@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "aRz12qR5iMTFbLhK"
+        },
+        {
+            "nome": "Mariela_Braun24",
+            "email": "Pablo90@yahoo.com",
+            "password": "779514137",
+            "administrador": "true",
+            "_id": "arDNf4bupie91gNC"
+        },
+        {
+            "nome": "Clark Wuckert",
+            "email": "steven.torp@hotmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "azDuQhShFaxGHUCu"
+        },
+        {
+            "nome": "Dwain Ryan",
+            "email": "katheryn.koelpin@gmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "bmj4Sys04vFjwuUa"
+        },
+        {
+            "nome": "ALESSANDRA MARQUES DOS SANTOS",
+            "email": "alessandramarquees@hotmail.com",
+            "password": "Hmv@2017",
+            "administrador": "false",
+            "_id": "c20SJ6C72O30Jx15"
+        },
+        {
+            "nome": "Ricardo",
+            "email": "duplicado.1793811773972@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "dtMTokAt4w6DtikK"
+        },
+        {
+            "nome": "Bernard Stanton",
+            "email": "Carroll_Krajcik8@hotmail.com",
+            "password": "mmLoSrpL",
+            "administrador": "true",
+            "_id": "eNl9pqWucVa4Q8gH"
+        },
+        {
+            "nome": "Rosamond62",
+            "email": "Elna_Mayert@gmail.com",
+            "password": "398851946",
+            "administrador": "true",
+            "_id": "edA2qRQoCh7SM2S1"
+        },
+        {
+            "nome": "QA User 7133",
+            "email": "qa.user.7133@mail.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "fXzc5dzhpGGMroJu"
+        },
+        {
+            "nome": "QA Automatizado d962b4c4fce54f43",
+            "email": "qa.d962b4c4fce54f43@example.com",
+            "password": "Senha1234!",
+            "administrador": "false",
+            "_id": "gKDT4pPiJlNxNZa1"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811712690@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "gShX9wuSMJF1uYks"
+        },
+        {
+            "nome": "Anderson.Kuphal",
+            "email": "Cecelia1@yahoo.com",
+            "password": "762995395",
+            "administrador": "true",
+            "_id": "h4jazx7rwqfFWms1"
+        },
+        {
+            "nome": "Usuário Comum Cypress",
+            "email": "comum_cypress_1793812368651@qa.com",
+            "password": "Teste@123",
+            "administrador": "false",
+            "_id": "i85PJDbFLORXgevO"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811756468@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "iI29yZsjgkioAt8J"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "uajdmbkm@emailteste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "iUeOENAhJrrZLNlL"
+        },
+        {
+            "nome": "Ricardo",
+            "email": "duplicado.1793811547635@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "juwi25Al5gWkq74m"
+        },
+        {
+            "nome": "Laura Silva",
+            "email": "usuario.nar7zmw9@teste.com",
+            "password": "pErmq9rOB0",
+            "administrador": "true",
+            "_id": "kVCP1p0TyUGowIy4"
+        },
+        {
+            "nome": "Ahmad.Daniel",
+            "email": "Eryn.Parisian3@hotmail.com",
+            "password": "859746222",
+            "administrador": "true",
+            "_id": "kYadkULzaTBssuut"
+        },
+        {
+            "nome": "a",
+            "email": "dasdasasd@dasdas.com",
+            "password": "12341234",
+            "administrador": "false",
+            "_id": "ke4SvzftmO7zVw2M"
+        },
+        {
+            "nome": "Kristin Kemmer",
+            "email": "kristinkemmer@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "lPGJ2Yqjb06c7pXe"
+        },
+        {
+            "nome": "Dr. Kara Runte",
+            "email": "Bo.Murphy@gmail.com",
+            "password": "LjpibKeMBw6URsQ",
+            "administrador": "true",
+            "_id": "mLFlTdGft3eXcgqu"
+        },
+        {
+            "nome": "Usuário Playwright",
+            "email": "playwright_1793815276071@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "ma4luZva1jyrIBMO"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811720540@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "mqg9IADpJlnYikRr"
+        },
+        {
+            "nome": "Ilene.Bosco97",
+            "email": "Adaline.Toy@yahoo.com",
+            "password": "817561366",
+            "administrador": "true",
+            "_id": "mwEza96h6W7ZMrdU"
+        },
+        {
+            "nome": "Kathleen Monahan",
+            "email": "Luther_Bednar@hotmail.com",
+            "password": "mLnByHMe",
+            "administrador": "true",
+            "_id": "n0X80QQXAbV9KDjk"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "ydpvmqmp@emailteste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "nH38awIEGRwqsclA"
+        },
+        {
+            "nome": "Lance57",
+            "email": "Thea_OConner3@yahoo.com",
+            "password": "995910782",
+            "administrador": "true",
+            "_id": "nPskxOO6LEr7MiTu"
+        },
+        {
+            "nome": "Sandrine86",
+            "email": "Shirley_Crist11@gmail.com",
+            "password": "896298287",
+            "administrador": "true",
+            "_id": "oObGwVutDBBtusl4"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811768351@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "oWF2eXnonjpgiIND"
+        },
+        {
+            "nome": "Humberto.McGlynn81",
+            "email": "Dorris_Stehr@gmail.com",
+            "password": "015778445",
+            "administrador": "true",
+            "_id": "oZW0PMNqE7kzh9pz"
+        },
+        {
+            "nome": "Carlita Swaniawski MD",
+            "email": "wally.fay@gmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "onI50J12q35QF4MM"
+        },
+        {
+            "nome": "Kirk Johnson",
+            "email": "samatha.cummerata@gmail.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "pVJZKRZhQTdJOw67"
+        },
+        {
+            "nome": "Alexander Kuhn-Barton",
+            "email": "Alda_Leannon@hotmail.com",
+            "password": "_bSTQvKb",
+            "administrador": "true",
+            "_id": "qARYXElHSVCesw1Y"
+        },
+        {
+            "nome": "Rodney Russel",
+            "email": "rodneyrussel@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "qGUZoTF5SNMkk7MA"
+        },
+        {
+            "nome": "Arthur Costa",
+            "email": "usuario.8hgm1lp5@teste.com",
+            "password": "c5PbmcQaWC",
+            "administrador": "false",
+            "_id": "qeog0DgaXi92HBsu"
+        },
+        {
+            "nome": "Olivia Kulas",
+            "email": "oliviakulas@test.com",
+            "password": "Test;123",
+            "administrador": "false",
+            "_id": "sgSBgaAMG0tLYFrJ"
+        },
+        {
+            "nome": "Jamel.Jaskolski95",
+            "email": "Vicky.Kertzmann@hotmail.com",
+            "password": "850481343",
+            "administrador": "true",
+            "_id": "t3yflJ0hKUvjMnlt"
+        },
+        {
+            "nome": "Jaylin81",
+            "email": "Anastasia.Hayes36@gmail.com",
+            "password": "904083648",
+            "administrador": "true",
+            "_id": "t6t5qpjoWmnvzOXh"
+        },
+        {
+            "nome": "Golden_Langworth15",
+            "email": "Carmelo.Streich@hotmail.com",
+            "password": "970392123",
+            "administrador": "true",
+            "_id": "tvwZYY5Uv66ST0II"
+        },
+        {
+            "nome": "Dayne_Heidenreich",
+            "email": "Kamren_Lynch@gmail.com",
+            "password": "186245848",
+            "administrador": "true",
+            "_id": "uzJQ88oJs9oGynlF"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Qualidade de Software em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811760224@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "v7byseVDrMc1jjLl"
+        },
+        {
+            "nome": "Usuário Cypress",
+            "email": "usuario_cypress_1793812365011@qa.com",
+            "password": "Teste@123",
+            "administrador": "true",
+            "_id": "vP8NE4Gy9j9U2Mj6"
+        },
+        {
+            "nome": "Peggy Watsica",
+            "email": "peggywatsica@test.com",
+            "password": "Test;123",
+            "administrador": "true",
+            "_id": "vlIQCkNXJWOLC84L"
+        },
+        {
+            "nome": "Usuário Comum da Loja",
+            "email": "comprador_1793812339011@loja.com",
+            "password": "123456",
+            "administrador": "false",
+            "_id": "vsWns07bHvqQDwA3"
+        },
+        {
+            "nome": "Júlia Reis",
+            "email": "qa.1793819634845ayt3ad@teste.com.br",
+            "password": "i1UDtWaYb7zx",
+            "administrador": "false",
+            "_id": "wIRxR8OdIXlhhJBa"
+        },
+        {
+            "nome": "Usuario QA",
+            "email": "qa_d9b04d70-d739-46a0-8668-94890fbf05f9@test.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "xWkII8l4FsVzJoES"
+        },
+        {
+            "nome": "Mr. Marcos Lehner",
+            "email": "mr.marcoslehner_Jacobs-Dietrich@serverest.dev",
+            "password": "ZO480xw5UYNW",
+            "administrador": "false",
+            "_id": "xeESi1YlvTtsHmYV"
+        },
+        {
+            "nome": "Hora do QA - Aprenda sobre Testes de API em: https://youtube.com/@horadoqa",
+            "email": "ricardo.1793811728068@example.com",
+            "password": "1q2w3e4r",
+            "administrador": "true",
+            "_id": "xzb0Gdm8rAbGXYqH"
+        },
+        {
+            "nome": "Alton Marquardt",
+            "email": "Kathryne.Waelchi@hotmail.com",
+            "password": "ZYUxMgEg",
+            "administrador": "true",
+            "_id": "y4yvBV2CC61nsXTD"
+        },
+        {
+            "nome": "Robt Bernier",
+            "email": "rogelio.schuster@yahoo.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "y72qLtygfistAzfx"
+        },
+        {
+            "nome": "Usuário Playwright",
+            "email": "playwright_1793815273854@mail.com",
+            "password": "123456",
+            "administrador": "true",
+            "_id": "yE5WTjcWS2dfJvlg"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "z3RmCClqeT24i9gj"
+        },
+        {
+            "nome": "Fumiko",
+            "email": "ellyn.hand@hotmail.com",
+            "password": "ykfg7f4c2a",
+            "administrador": "true",
+            "_id": "zbEZsfA7c9wuD3ig"
+        }
+    ]
+}
