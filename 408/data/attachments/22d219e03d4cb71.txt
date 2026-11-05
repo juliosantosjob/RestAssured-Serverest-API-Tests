@@ -1,0 +1,361 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=b11140e5e6430f5e97205dcee6ba08b6
+date=Thu, 05 Nov 2026 00:41:46 GMT
+server=Google Frontend
+Content-Length=11298
+Body: {
+    "quantidade": 49,
+    "usuarios": [
+        {
+            "nome": "Fulano da Silva",
+            "email": "fulano@qa.com",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "0uxuPY0cbmQhpEz1"
+        },
+        {
+            "nome": "Dennis Waters",
+            "email": "Eusebio.Nader@gmail.com",
+            "password": "tY8yn6Bw",
+            "administrador": "true",
+            "_id": "1V605hNfJrVBzmKK"
+        },
+        {
+            "nome": "Usuário Editado",
+            "email": "novoemail@teste.com",
+            "password": "novaSenha456",
+            "administrador": "false",
+            "_id": "3kdQdO1THXvlg3Uz"
+        },
+        {
+            "nome": "Charles Kiehn",
+            "email": "Ubaldo.Sauer@yahoo.com",
+            "password": "e2wrkKRO",
+            "administrador": "true",
+            "_id": "4X8Yf8QQSUQIXteE"
+        },
+        {
+            "nome": "Usuário Playwright",
+            "email": "playwright-1793836070026@example.com",
+            "password": "Password123",
+            "administrador": "true",
+            "_id": "7HWDz1EzBfBfqk8E"
+        },
+        {
+            "nome": "Usuário atualizado pela API",
+            "email": "api-1793835021823-965616@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "8yP33nUObFIfl5z7"
+        },
+        {
+            "nome": "Emanuela krause",
+            "email": "manu@gmail.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "A7kbduM9CayuGzi6"
+        },
+        {
+            "nome": "Usuário atualizado pela API",
+            "email": "api-1793834977555-292550@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "EWgY2wVg3C7cNeP2"
+        },
+        {
+            "nome": "Muriel Mertz",
+            "email": "Rosanna73@gmail.com",
+            "password": "ixj_w73P",
+            "administrador": "true",
+            "_id": "G9frdvGfLS6lNb6D"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793835020716-262272@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "IS5NMvPTUzR0PQoL"
+        },
+        {
+            "nome": "Usuário Playwright",
+            "email": "playwright-1793836158755@example.com",
+            "password": "Password123",
+            "administrador": "true",
+            "_id": "JhoZ79ApV7PrOYhW"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793834996879-150807@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "JmhXIyhd6TbhaFiD"
+        },
+        {
+            "nome": "Fulano da Silva Teste",
+            "email": "fulano_1793836687@qa.com.br",
+            "password": "senha123teste",
+            "administrador": "true",
+            "_id": "Kjy8qxKFcDyQ4W4A"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793834978429-199936@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "L5vPnGxAxDK0XCOl"
+        },
+        {
+            "nome": "Martin",
+            "email": "noble.beahan@gmail.com",
+            "password": "x0hhyu0z3x",
+            "administrador": "true",
+            "_id": "LSmTVyhsgF8OqRzF"
+        },
+        {
+            "nome": "Ada Cruickshank",
+            "email": "Raul17@hotmail.com",
+            "password": "KA_E2IqH",
+            "administrador": "true",
+            "_id": "M1OKVPjQeRamMCjK"
+        },
+        {
+            "nome": "Usuário Playwright",
+            "email": "playwright-1793836032240@example.com",
+            "password": "Password123",
+            "administrador": "true",
+            "_id": "MsReA5g8NLBSD0KY"
+        },
+        {
+            "nome": "Ms. Flora Padberg",
+            "email": "Camylle68@yahoo.com",
+            "password": "MAvr1kxf",
+            "administrador": "true",
+            "_id": "NvQHjmzxzqvxgKN9"
+        },
+        {
+            "nome": "Usuário Cypress QA",
+            "email": "qa_teste_1793836088226@email.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "OLr0F0ZpXwrLfEKx"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793835022623-907427@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "OurPXhYXXxuEplmH"
+        },
+        {
+            "nome": "Dr. Christian Schuster",
+            "email": "Ross_Volkman@yahoo.com",
+            "password": "Xr_JKUuP",
+            "administrador": "true",
+            "_id": "ParjGf8K21WJDctU"
+        },
+        {
+            "nome": "Percy Wisozk",
+            "email": "Lucas.Halvorson43@hotmail.com",
+            "password": "g7ChWMA7",
+            "administrador": "true",
+            "_id": "Q9x3dTni7WCLlIbT"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "RTXuCdbTz4IJz795"
+        },
+        {
+            "nome": "Miss Shannon Wisoky",
+            "email": "Gino_Rosenbaum@gmail.com",
+            "password": "QyAxdBmP",
+            "administrador": "true",
+            "_id": "RrsWAZYiqa5uPY04"
+        },
+        {
+            "nome": "QA Login",
+            "email": "qa.login.1793838554826@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "Uf4JiLMFUROKTx1p"
+        },
+        {
+            "nome": "QA Login",
+            "email": "qa.login.1793837088671@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "Uha5uzYWT7miBfC6"
+        },
+        {
+            "nome": "Usuário criado pela API",
+            "email": "api-1793835020129-584549@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "WmbF2Z5Gi62GrqxG"
+        },
+        {
+            "nome": "aline",
+            "email": "testar2@qa.com",
+            "password": "12345",
+            "administrador": "false",
+            "_id": "XgHIK7r6HUeH19uF"
+        },
+        {
+            "nome": "Usuário Cypress QA",
+            "email": "qa_teste_1793835687222@email.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "aboR2PwUnV1l80nJ"
+        },
+        {
+            "nome": "Georgyo Luka Dos anjos maralha2",
+            "email": "georgyoluka2.maralha@gmail.com",
+            "password": "12Denovembro!",
+            "administrador": "true",
+            "_id": "bRLuP07aK0rOcRgL"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793834976979-827416@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "byOqn97yV8X605N7"
+        },
+        {
+            "nome": "Saul Lynch",
+            "email": "Terrell_Denesik8@yahoo.com",
+            "password": "zI6u4ghH",
+            "administrador": "true",
+            "_id": "c7OTXoaW1UzmUc1n"
+        },
+        {
+            "nome": "teste",
+            "email": "teste@gmail.com",
+            "password": "123123123",
+            "administrador": "true",
+            "_id": "cKZagMQm0dR6UdIK"
+        },
+        {
+            "nome": "Usuário atualizado pela API",
+            "email": "api-1793834998017-217395@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "fdZWSBKyW4GKieLm"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793834976369-935174@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "h1hguPuc7N45sBtc"
+        },
+        {
+            "nome": "Teste API",
+            "email": "api-check-20261104@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "h6baPc3Sy0xQNwiR"
+        },
+        {
+            "nome": "Usuário criado pela API",
+            "email": "api-1793834996048-432294@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "hYe1jP4YtbubszSs"
+        },
+        {
+            "nome": "Ms. Mae Corwin",
+            "email": "Drake33@yahoo.com",
+            "password": "ThJ6bQAQ",
+            "administrador": "true",
+            "_id": "hqhNItT8egnAoPYn"
+        },
+        {
+            "nome": "QA Login",
+            "email": "qa.login.1793838422747@teste.com",
+            "password": "Senha@123",
+            "administrador": "true",
+            "_id": "jbqUOOIRFCBWhAjZ"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793834998857-940293@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "kvRwNWoEyEYoeaYM"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793834979995-589412@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "mE9bEwB4y0ZrNixv"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793835021266-973810@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "mpxJu97lII7rZxgL"
+        },
+        {
+            "nome": "Usuário criado pela API",
+            "email": "api-1793834975564-606535@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "ocdVbNVf72bLhzkx"
+        },
+        {
+            "nome": "Wallace Ledner",
+            "email": "Marcella_Berge77@yahoo.com",
+            "password": "VnJairQ3",
+            "administrador": "true",
+            "_id": "ow8Ebqw2DOqjGoUm"
+        },
+        {
+            "nome": "Usuário Cypress QA",
+            "email": "qa_teste_1793835743194@email.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "owc8YmBeMaxZvuFH"
+        },
+        {
+            "nome": "Usuário Cypress QA",
+            "email": "qa_teste_1793835626054@email.com",
+            "password": "senha123",
+            "administrador": "true",
+            "_id": "pTtN4aKyjQTG5DX5"
+        },
+        {
+            "nome": "aline",
+            "email": "alinE@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "tHZ9rNIVQs8h967s"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793834997450-110038@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "wHIPvBWfN3XTpQ3H"
+        },
+        {
+            "nome": "Usuário de teste API",
+            "email": "api-1793835000398-401240@example.com",
+            "password": "SenhaTeste123",
+            "administrador": "false",
+            "_id": "y7BQ3RXprg38wjxY"
+        }
+    ]
+}
