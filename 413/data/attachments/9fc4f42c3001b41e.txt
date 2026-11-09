@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=de7c55e50a9c0c11029cf47abd22a38b
+date=Mon, 09 Nov 2026 21:52:33 GMT
+server=Google Frontend
+Content-Length=183
+Body: {
+    "nome": "Gerson Test",
+    "password": "123456",
+    "administrador": "true",
+    "email": "gerson678ceab9-24eb-4110-b064-1cf82164b1e1@mail.com",
+    "_id": "0DWOT77vKGtcrUGN"
+}
