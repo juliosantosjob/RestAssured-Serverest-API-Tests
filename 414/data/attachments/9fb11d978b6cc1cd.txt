@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: access-control-allow-origin=*
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-cloud-trace-context=ef6fbb6507b6e6ae0d08303c2d10de97
+date=Tue, 10 Nov 2026 19:14:27 GMT
+server=Google Frontend
+Content-Length=180
+Body: {
+    "nome": "Usuario QA Portfolio",
+    "email": "qa.lucas.202611101545@example.com",
+    "password": "SenhaQA2026!",
+    "administrador": "true",
+    "_id": "06izfKeXAKjCQ1Fc"
+}
