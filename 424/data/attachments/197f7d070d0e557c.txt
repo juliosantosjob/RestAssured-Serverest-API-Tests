@@ -1,0 +1,19 @@
+Status Code: 400
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.34, rate_limit;st=ok;dur=0.08, schema;st=ok;dur=0.12, rules;st=failed;dur=0.19
+x-cloud-trace-context=9377b3f421f022890cae25e39cae3d4a
+date=Wed, 18 Nov 2026 19:53:01 GMT
+server=Google Frontend
+Content-Length=53
+Body: {
+    "message": "Este email já está sendo usado"
+}
