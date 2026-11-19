@@ -1,0 +1,19 @@
+Status Code: 400
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.27, rate_limit;st=ok;dur=0.06, schema;st=failed;dur=0.25, rules;st=not_run
+x-cloud-trace-context=0ae0f5083fed011b04656e3b5f694d6d
+date=Thu, 19 Nov 2026 01:38:01 GMT
+server=Google Frontend
+Content-Length=50
+Body: {
+    "password": "password deve ser uma string"
+}

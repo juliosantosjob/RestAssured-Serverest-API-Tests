@@ -1,0 +1,19 @@
+Status Code: 400
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.26, rate_limit;st=ok;dur=0.10, schema;st=failed;dur=0.34, rules;st=not_run
+x-cloud-trace-context=bfb3097f29f19b858bcebe9c0304cf96
+date=Thu, 19 Nov 2026 01:38:01 GMT
+server=Google Frontend
+Content-Length=50
+Body: {
+    "email": "email deve ser um email válido"
+}
