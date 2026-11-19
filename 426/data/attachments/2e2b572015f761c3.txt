@@ -1,0 +1,19 @@
+Status Code: 400
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.24, rate_limit;st=ok;dur=0.06, schema;st=failed;dur=1.04, rules;st=not_run
+x-cloud-trace-context=68ab77f138a5b32a2a2117cae117fb13
+date=Thu, 19 Nov 2026 19:53:26 GMT
+server=Google Frontend
+Content-Length=67
+Body: {
+    "administrador": "administrador deve ser 'true' ou 'false'"
+}
