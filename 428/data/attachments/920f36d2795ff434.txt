@@ -1,0 +1,19 @@
+Status Code: 400
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.12, rate_limit;st=ok;dur=0.10, schema;st=ok;dur=0.08, read;st=failed;dur=0.28
+x-cloud-trace-context=9aff4ade940c7c2a048990835157051d
+date=Fri, 20 Nov 2026 19:32:26 GMT
+server=Google Frontend
+Content-Length=45
+Body: {
+    "message": "Usuário não encontrado"
+}
