@@ -1,0 +1,19 @@
+Status Code: 401
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.24, rate_limit;st=ok;dur=0.05, schema;st=ok;dur=0.09, rules;st=failed;dur=0.14
+x-cloud-trace-context=05e5c57cbbc9024a137b48aafbaef201
+date=Sat, 21 Nov 2026 01:02:31 GMT
+server=Google Frontend
+Content-Length=48
+Body: {
+    "message": "Email e/ou senha inválidos"
+}
