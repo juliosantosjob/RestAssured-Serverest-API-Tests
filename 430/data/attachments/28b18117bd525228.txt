@@ -1,0 +1,20 @@
+Status Code: 201
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.24, rate_limit;st=ok;dur=0.06, schema;st=ok;dur=0.10, rules;st=ok;dur=0.74
+x-cloud-trace-context=725b082ac3c0a6cafd2d02c10553010a
+date=Mon, 23 Nov 2026 23:16:42 GMT
+server=Google Frontend
+Content-Length=82
+Body: {
+    "message": "Cadastro realizado com sucesso",
+    "_id": "UyOgf37oFZv8GdU9"
+}

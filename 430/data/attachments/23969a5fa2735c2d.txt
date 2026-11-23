@@ -1,0 +1,19 @@
+Status Code: 200
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.88, rate_limit;st=ok;dur=0.06, schema;st=ok;dur=0.11, rules;st=ok;dur=1.13
+x-cloud-trace-context=4e07818ddded92eb48554a81e15afc54
+date=Mon, 23 Nov 2026 23:16:45 GMT
+server=Google Frontend
+Content-Length=50
+Body: {
+    "message": "Registro alterado com sucesso"
+}
