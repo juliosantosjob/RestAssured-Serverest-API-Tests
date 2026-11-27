@@ -1,0 +1,20 @@
+Status Code: 200
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.31, rate_limit;st=ok;dur=0.08, schema;st=ok;dur=0.12, rules;st=ok;dur=1.21
+x-cloud-trace-context=42471cf77fc6355a76a7414ee2a01473
+date=Fri, 27 Nov 2026 20:36:36 GMT
+server=Google Frontend
+Content-Length=288
+Body: {
+    "message": "Login realizado com sucesso",
+    "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImplcnJvbGQuamFjb2Jzb25AZ21haWwuY29tIiwicGFzc3dvcmQiOiJ3ZzE1aGE4dXMiLCJpYXQiOjE3OTU4MTE3OTYsImV4cCI6MTc5NTgxMjM5Nn0.BTW8-ru1_H9WsHwLNcjCp9JVlWifgAyylnokwBeyL4k"
+}

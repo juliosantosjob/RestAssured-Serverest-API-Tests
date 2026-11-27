@@ -1,0 +1,19 @@
+Status Code: 400
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.31, rate_limit;st=ok;dur=0.10, schema;st=failed;dur=0.50, rules;st=not_run
+x-cloud-trace-context=457deccc57d3a15e31ce12c71bbf8397
+date=Fri, 27 Nov 2026 20:36:36 GMT
+server=Google Frontend
+Content-Length=48
+Body: {
+    "nome": "nome não pode ficar em branco"
+}

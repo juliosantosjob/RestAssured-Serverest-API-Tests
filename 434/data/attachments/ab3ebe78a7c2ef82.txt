@@ -1,0 +1,23 @@
+Status Code: 200
+Headers: x-robots-tag=noindex
+access-control-allow-origin=*
+access-control-expose-headers=X-ServeRest-Stages,Retry-After
+x-dns-prefetch-control=off
+x-frame-options=SAMEORIGIN
+strict-transport-security=max-age=15552000; includeSubDomains
+x-download-options=noopen
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+content-type=application/json; charset=utf-8
+x-serverest-stages=body;st=ok;dur=0.10, rate_limit;st=ok;dur=0.08, schema;st=ok;dur=0.10, read;st=ok;dur=0.26
+x-cloud-trace-context=ae5fb58eed8a1914b03fb2dbdb6affff
+date=Fri, 27 Nov 2026 20:36:41 GMT
+server=Google Frontend
+Content-Length=155
+Body: {
+    "nome": "Carlton",
+    "email": "amos.turcotte@hotmail.com",
+    "password": "olhnzo48",
+    "administrador": "true",
+    "_id": "TrvqVsijsxeP2ZFG"
+}
